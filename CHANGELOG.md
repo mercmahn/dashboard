@@ -4,6 +4,7 @@ All notable, unreleased changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+<<<<<<< HEAD
 - Add embed plugin into editor-js - #3354 by @mociepka
 - Add Order Confirmation settings - #840 by @orzechdev and @mmarkusik
 - Add Page Types - #807 by @orzechdev
@@ -82,6 +83,8 @@ All notable, unreleased changes to this project will be documented in this file.
 - Introduce fulfillment creation - #1241 by @orzechdev
 - Introduce Click&Collect feature - #1268 by @kuchichan
 
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 # 2.11.1
 
 - Support multiline text in plugin configuration secret field - #829 by @karolinakuzniewicz
@@ -124,8 +127,6 @@ All notable, unreleased changes to this project will be documented in this file.
 - Update schema with PositiveDecimal type - #695 by @AlicjaSzu
 - Add error info when fetching taxes - #701 by @dominik-zeglen
 - Fix return to previous page on screen size change - #710 by @orzechdev
-- Fix updating order details on address change #711 - by @orzechdev
-- Add no warehouses info when working with stock quantities #713 - by @orzechdev
 - Add variants reordering possibility - #716 by @orzechdev
 - Fix avatar change button - #719 by @orzechdev
 - Add slug field to product, collection, category & page details (update and create) - #720 by @mmarkusik
@@ -138,9 +139,6 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix order draft back button redirect - #753 by @orzechdev
 - Add manage product types and attributes permission - #768 by @orzechdev
 - Fix isPublished and isAvailable behaviour for products, collections and pages - #780 by @mmarkusik
-- Add metadata editor to page views - #782 by @dominik-zeglen
-- Add missing infinite scroll to searches - #793 by @dominik-zeglen
-- Fix for fulfilling order when allocated quantity equals total quantity - #788 by @GrzegorzDerdak
 
 ## 2.10.1
 

@@ -211,12 +211,18 @@
     "context": "vat not included in order price",
     "string": "ne s'applique pas"
   },
+<<<<<<< HEAD
   "pageTypeCreateHeader": {
     "context": "window title",
     "string": "Create Page Type"
   },
   "pageTypeInputLabel": {
     "string": "Select content type"
+=======
+  "productExportFieldAvailability": {
+    "context": "product field",
+    "string": "Available for purchase"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productExportFieldCategory": {
     "context": "product field",
@@ -234,6 +240,7 @@
     "context": "product field",
     "string": "Nom"
   },
+<<<<<<< HEAD
   "productExportFieldProductImages": {
     "context": "product field",
     "string": "Images du produit"
@@ -241,6 +248,19 @@
   "productExportFieldProductWeight": {
     "context": "product field",
     "string": "Exporter le poids du produit"
+=======
+  "productExportFieldPrice": {
+    "context": "product field",
+    "string": "Cost Price"
+  },
+  "productExportFieldProductImages": {
+    "context": "product field",
+    "string": "Product Images"
+  },
+  "productExportFieldProductWeight": {
+    "context": "product field",
+    "string": "Export Product Weight"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productExportFieldTaxes": {
     "context": "product field",
@@ -254,6 +274,13 @@
     "context": "product field",
     "string": "Images de la variante"
   },
+<<<<<<< HEAD
+=======
+  "productExportFieldVariantPrice": {
+    "context": "product field",
+    "string": "Variant Price"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productExportFieldVariantSku": {
     "context": "product field",
     "string": "Export Variant SKU"
@@ -265,6 +292,13 @@
   "productExportFieldVisibility": {
     "context": "product field",
     "string": "Visibilité"
+<<<<<<< HEAD
+=======
+  },
+  "productStatusLabel": {
+    "context": "product",
+    "string": "Publié"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productStockHeader": {
     "context": "product stock, section header",
@@ -308,6 +342,13 @@
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
   },
+<<<<<<< HEAD
+=======
+  "productVariantWarehouseSectionDescription": {
+    "context": "no warehouses info",
+    "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productWarehouseSectionDescription": {
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the product please <a>configure a warehouse</a>"
@@ -398,11 +439,19 @@
   },
   "src_dot_apps_dot_components_dot_AppDeleteDialog_dot_1462011531": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Supprimer l'application"
   },
   "src_dot_apps_dot_components_dot_AppDeleteDialog_dot_330001535": {
     "context": "delete app",
     "string": "Êtes-vous sûr de vouloir supprimer cette application?"
+=======
+    "string": "Delete App"
+  },
+  "src_dot_apps_dot_components_dot_AppDeleteDialog_dot_330001535": {
+    "context": "delete app",
+    "string": "Are you sure you want to delete this app?"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppDeleteDialog_dot_3817179919": {
     "context": "delete app",
@@ -462,11 +511,19 @@
   },
   "src_dot_apps_dot_components_dot_AppInProgressDeleteDialog_dot_1462011531": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Supprimer l'application"
   },
   "src_dot_apps_dot_components_dot_AppInProgressDeleteDialog_dot_330001535": {
     "context": "delete app",
     "string": "Êtes-vous sûr de vouloir supprimer cette application?"
+=======
+    "string": "Delete App"
+  },
+  "src_dot_apps_dot_components_dot_AppInProgressDeleteDialog_dot_330001535": {
+    "context": "delete app",
+    "string": "Are you sure you want to delete this app?"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppInProgressDeleteDialog_dot_3817179919": {
     "context": "delete app",
@@ -474,7 +531,11 @@
   },
   "src_dot_apps_dot_components_dot_AppInstallErrorPage_dot_1152717819": {
     "context": "title",
+<<<<<<< HEAD
     "string": "Il y a un problème avec l'application."
+=======
+    "string": "There’s a problem with app."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppInstallErrorPage_dot_1261716527": {
     "context": "content",
@@ -482,7 +543,11 @@
   },
   "src_dot_apps_dot_components_dot_AppInstallErrorPage_dot_3375237564": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Retour à la page d'acceuil"
+=======
+    "string": "Back to homepage"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppInstallPage_dot_127674832": {
     "context": "app data privacy link",
@@ -490,7 +555,11 @@
   },
   "src_dot_apps_dot_components_dot_AppInstallPage_dot_2538706256": {
     "context": "install button",
+<<<<<<< HEAD
     "string": "Installer l'application"
+=======
+    "string": "Install App"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppInstallPage_dot_2936990163": {
     "context": "install app permissions",
@@ -514,7 +583,11 @@
   },
   "src_dot_apps_dot_components_dot_AppsInProgress_dot_2398081356": {
     "context": "retry installation",
+<<<<<<< HEAD
     "string": "Ré-essayer"
+=======
+    "string": "Retry"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_AppsInProgress_dot_2868351060": {
     "context": "app installation error",
@@ -522,11 +595,19 @@
   },
   "src_dot_apps_dot_components_dot_AppsInProgress_dot_3733091754": {
     "context": "app installation",
+<<<<<<< HEAD
     "string": "Installation de l'application..."
   },
   "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_1414896555": {
     "context": "checkbox label",
     "string": "Donner tous les accès au magasin pour cette application"
+=======
+    "string": "Installing app..."
+  },
+  "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_1414896555": {
+    "context": "checkbox label",
+    "string": "Grant this app full access to the store"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_3076071936": {
     "context": "card description",
@@ -534,11 +615,19 @@
   },
   "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_3189779214": {
     "context": "header",
+<<<<<<< HEAD
     "string": "Créer une nouvelle application"
   },
   "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_570656367": {
     "context": "checkbox label",
     "string": "L'application est active"
+=======
+    "string": "Create New App"
+  },
+  "src_dot_apps_dot_components_dot_CustomAppCreatePage_dot_570656367": {
+    "context": "checkbox label",
+    "string": "App is active"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_CustomAppDefaultToken_dot_1336855942": {
     "string": "Clé d'accès générée"
@@ -559,7 +648,11 @@
   },
   "src_dot_apps_dot_components_dot_CustomAppDetailsPage_dot_1414896555": {
     "context": "checkbox label",
+<<<<<<< HEAD
     "string": "Donner tous les accès au magasin pour cette application"
+=======
+    "string": "Grant this app full access to the store"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_CustomAppDetailsPage_dot_3076071936": {
     "context": "card description",
@@ -567,11 +660,19 @@
   },
   "src_dot_apps_dot_components_dot_CustomAppDetailsPage_dot_570656367": {
     "context": "checkbox label",
+<<<<<<< HEAD
     "string": "L'application est active"
   },
   "src_dot_apps_dot_components_dot_CustomAppInformation_dot_2860466085": {
     "context": "header",
     "string": "Informations de l'application"
+=======
+    "string": "App is active"
+  },
+  "src_dot_apps_dot_components_dot_CustomAppInformation_dot_2860466085": {
+    "context": "header",
+    "string": "App Information"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_CustomAppInformation_dot_3001692357": {
     "context": "custom app name",
@@ -601,11 +702,19 @@
   },
   "src_dot_apps_dot_components_dot_CustomApps_dot_3152347892": {
     "context": "custom apps content",
+<<<<<<< HEAD
     "string": "Vos applications personnalisées seront affichées ici."
   },
   "src_dot_apps_dot_components_dot_CustomApps_dot_3230241731": {
     "context": "create app button",
     "string": "Créer une application"
+=======
+    "string": "Your custom created apps will be shown here."
+  },
+  "src_dot_apps_dot_components_dot_CustomApps_dot_3230241731": {
+    "context": "create app button",
+    "string": "Create App"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_DeactivatedText_dot_3064552173": {
     "context": "app deactivated",
@@ -613,11 +722,19 @@
   },
   "src_dot_apps_dot_components_dot_InstalledApps_dot_1636202177": {
     "context": "about app",
+<<<<<<< HEAD
     "string": "A Propos"
   },
   "src_dot_apps_dot_components_dot_InstalledApps_dot_186286611": {
     "context": "apps content",
     "string": "Vous n'avez aucune application installée sur votre dashboard"
+=======
+    "string": "About"
+  },
+  "src_dot_apps_dot_components_dot_InstalledApps_dot_186286611": {
+    "context": "apps content",
+    "string": "You don’t have any installed apps in your dashboard"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_InstalledApps_dot_3504763431": {
     "context": "section header",
@@ -629,6 +746,7 @@
   },
   "src_dot_apps_dot_components_dot_Marketplace_dot_3259214524": {
     "context": "marketplace content",
+<<<<<<< HEAD
     "string": "Le Marketplace sera bientôt disponible"
   },
   "src_dot_apps_dot_components_dot_Marketplace_dot_3910026447": {
@@ -638,6 +756,17 @@
   "src_dot_apps_dot_components_dot_Marketplace_dot_52985091": {
     "context": "marketplace content",
     "string": "Découvrez des applications gratuites et payantes dans notre Marketplace Saleor"
+=======
+    "string": "Marketplace is coming soon"
+  },
+  "src_dot_apps_dot_components_dot_Marketplace_dot_3910026447": {
+    "context": "marketplace button",
+    "string": "Visit Marketplace"
+  },
+  "src_dot_apps_dot_components_dot_Marketplace_dot_52985091": {
+    "context": "marketplace content",
+    "string": "Discover great free and paid apps in our Saleor Marketplace."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_TokenCreateDialog_dot_1336855942": {
     "string": "Clé d'accès générée"
@@ -665,7 +794,11 @@
   },
   "src_dot_apps_dot_components_dot_TokenDeleteDialog_dot_2164262076": {
     "context": "dialog title",
+<<<<<<< HEAD
     "string": "Supprimer la clé d'accès"
+=======
+    "string": "Delete Token"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_components_dot_TokenDeleteDialog_dot_981802752": {
     "context": "delete token",
@@ -673,6 +806,7 @@
   },
   "src_dot_apps_dot_views_dot_AppDetailsSettings_dot_2140018198": {
     "context": "app settings error",
+<<<<<<< HEAD
     "string": "Impossible de recevoir les paramètres de l'application"
   },
   "src_dot_apps_dot_views_dot_AppDetails_dot_2021043385": {
@@ -686,6 +820,21 @@
   "src_dot_apps_dot_views_dot_AppInstall_dot_2538706256": {
     "context": "window title",
     "string": "Installer l'application"
+=======
+    "string": "Failed to fetch app settings"
+  },
+  "src_dot_apps_dot_views_dot_AppDetails_dot_2021043385": {
+    "context": "snackbar text",
+    "string": "App activated"
+  },
+  "src_dot_apps_dot_views_dot_AppDetails_dot_3791371350": {
+    "context": "snackbar text",
+    "string": "App deactivated"
+  },
+  "src_dot_apps_dot_views_dot_AppInstall_dot_2538706256": {
+    "context": "window title",
+    "string": "Install App"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_apps_dot_views_dot_AppsList_dot_1180774955": {
     "context": "app has been installed",
@@ -693,6 +842,7 @@
   },
   "src_dot_apps_dot_views_dot_AppsList_dot_3076215778": {
     "context": "app has been removed",
+<<<<<<< HEAD
     "string": "L'application a été supprimée"
   },
   "src_dot_apps_dot_views_dot_AppsList_dot_539268521": {
@@ -706,6 +856,21 @@
   "src_dot_apps_dot_views_dot_CustomAppCreate_dot_3230241731": {
     "context": "window title",
     "string": "Créer une application"
+=======
+    "string": "App successfully removed"
+  },
+  "src_dot_apps_dot_views_dot_AppsList_dot_539268521": {
+    "context": "message title",
+    "string": "Couldn’t Install {name}"
+  },
+  "src_dot_apps_dot_views_dot_AppsList_dot_966773578": {
+    "context": "message title",
+    "string": "App installed"
+  },
+  "src_dot_apps_dot_views_dot_CustomAppCreate_dot_3230241731": {
+    "context": "window title",
+    "string": "Create App"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_attributes": {
     "context": "attributes section name",
@@ -1291,6 +1456,20 @@
     "context": "collections section name",
     "string": "Collections"
   },
+<<<<<<< HEAD
+  "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_643174786": {
+    "context": "collection label",
+    "string": "Visible"
+  },
+  "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_77815154": {
+    "context": "collection label",
+    "string": "Caché"
+=======
+  "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_2001551496": {
+    "context": "collection",
+    "string": "Sera visible à partir du {date}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
+  },
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_643174786": {
     "context": "collection label",
     "string": "Visible"
@@ -1305,6 +1484,20 @@
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_951411809": {
     "context": "page header",
     "string": "Ajouter une collection "
+  },
+<<<<<<< HEAD
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
+    "context": "collection label",
+    "string": "Visible"
+=======
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_2001551496": {
+    "context": "collection",
+    "string": "Sera visible à partir du {date}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
+  },
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_77815154": {
+    "context": "collection label",
+    "string": "Caché"
   },
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
     "context": "collection label",
@@ -1490,6 +1683,7 @@
     "context": "dialog header",
     "string": "Assigner Attribut"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AssignAttributeDialog_dot_4205644805": {
     "string": "Aucun résultat trouvé"
   },
@@ -1498,6 +1692,14 @@
   },
   "src_dot_components_dot_AssignAttributeDialog_dot_902296540": {
     "string": "Rechercher les attributs"
+=======
+  "src_dot_components_dot_AppStatus_dot_1624959454": {
+    "string": "If you want to disable this App please uncheck the box below."
+  },
+  "src_dot_components_dot_AppStatus_dot_1750277107": {
+    "context": "section header",
+    "string": "App Status"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_AssignCategoryDialog_dot_3125506097": {
     "context": "dialog header",
@@ -1561,6 +1763,7 @@
   },
   "src_dot_components_dot_AvailabilityCard_dot_1306298759": {
     "context": "product availability",
+<<<<<<< HEAD
     "string": "Disponible à l'achat"
   },
   "src_dot_components_dot_AvailabilityCard_dot_2162667201": {
@@ -1570,19 +1773,26 @@
   "src_dot_components_dot_AvailabilityCard_dot_2232321263": {
     "context": "product publication date label",
     "string": "will become published on {date}"
+=======
+    "string": "Available for purchase"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_AvailabilityCard_dot_2938074852": {
     "context": "product available for purchase date",
     "string": "will become available on {date}"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_3285520461": {
     "context": "channel publication date",
     "string": "Will become available on {date}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_570524410": {
     "context": "product availability date label",
     "string": "Set availability date"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_643174786": {
     "context": "channel publication status",
     "string": "Visible"
@@ -1591,10 +1801,13 @@
     "context": "channel publication status",
     "string": "Caché"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_825317195": {
     "context": "product unavailability",
     "string": "Unavailable for purchase"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_BulkAttributeUnassignDialog_dot_3177750460": {
     "context": "unassign multiple attributes from item",
     "string": "{counter,plural,one {Are you sure you want to unassign this attribute from {itemTypeName}?} other {Are you sure you want to unassign {attributeQuantity} attributes from {itemTypeName}?}}"
@@ -1667,6 +1880,8 @@
     "context": "section header button",
     "string": "Gérer"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_ColumnPicker_dot_1483881697": {
     "context": "button",
     "string": "Réinitialiser "
@@ -2066,6 +2281,7 @@
   "src_dot_components_dot_Timeline_dot_3028189627": {
     "string": "Laissez votre commentaire ici..."
   },
+<<<<<<< HEAD
   "src_dot_components_dot_UserChip_dot_21332146": {
     "context": "button",
     "string": "Déconnexion"
@@ -2078,6 +2294,8 @@
     "context": "button",
     "string": "Enable Dark Mode"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_VisibilityCard_dot_1311467573": {
     "string": "Show in product listings"
   },
@@ -3135,12 +3353,21 @@
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_1895667608": {
     "string": "Produit"
   },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_270371448": {
+    "string": "Product is out of stock"
+  },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2796503714": {
     "context": "quantity of ordered products",
     "string": "Quantité"
   },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2963336581": {
+    "string": "Product is unavailable to purchase"
+  },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_546865199": {
     "string": "Aucun produit ajouté à la commande"
+  },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_59548500": {
+    "string": "Product is hidden"
   },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_878013594": {
     "context": "total price of ordered products",
@@ -3308,10 +3535,13 @@
     "context": "fulfillment group tracking number",
     "string": "Modifier le suivi"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2567258278": {
     "context": "refunded fulfillment, section header",
     "string": "Refunded ({quantity})"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2796503714": {
     "context": "ordered product quantity",
     "string": "Quantité"
@@ -3426,6 +3656,13 @@
     "string": "Le brouillon de commande a été créé"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3237374063": {
+<<<<<<< HEAD
+=======
+    "context": "order history message",
+    "string": "Payment was authorized"
+  },
+  "src_dot_orders_dot_components_dot_OrderHistory_dot_3328124376": {
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
     "context": "order history message",
     "string": "Payment was authorized"
   },
@@ -3441,10 +3678,13 @@
     "context": "order history message",
     "string": "Les produits ont été ajoutés au brouillon de commande"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3731274949": {
     "context": "order history message",
     "string": "Order was refunded by {refundedBy}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_393045022": {
     "context": "order history message",
     "string": "Invoice no. {invoiceNumber} was updated"
@@ -3472,9 +3712,12 @@
     "context": "order history message",
     "string": "Paiement refusé "
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_492197448": {
     "string": "Products refunded"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_493321552": {
     "context": "order history message",
     "string": "Order cancel information was sent to customer"
@@ -3521,10 +3764,13 @@
     "context": "generate invoice button",
     "string": "Generate"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2225897825": {
     "context": "button",
     "string": "Order Settings"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2826235371": {
     "context": "button",
     "string": "Créer la commande"
@@ -4138,6 +4384,7 @@
     "context": "page status",
     "string": "Non Publiée"
   },
+<<<<<<< HEAD
   "src_dot_pages_dot_components_dot_PageOrganizeContent_dot_2959504520": {
     "string": "Content type"
   },
@@ -4145,6 +4392,8 @@
     "context": "section header",
     "string": "Organize Content"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_pages_dot_views_dot_1068617485": {
     "context": "header",
     "string": "Créer page"
@@ -4449,6 +4698,33 @@
     "context": "product types section name",
     "string": "Types de produit"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_2173976534": {
+    "context": "button",
+    "string": "Assigner des attributs"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_3922579741": {
+    "context": "dialog header",
+    "string": "Assigner Attribut"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_4205644805": {
+    "string": "Aucun résultat trouvé"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_524117994": {
+    "string": "Recherchez par nom d'attribut"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_902296540": {
+    "string": "Rechercher les attributs"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_404238501": {
+    "context": "dialog header",
+    "string": "Désassigner l'attribut de Type de produit"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_722498450": {
+    "string": "Êtes-vous certain de vouloir enlever {attributeName} de {productTypeName}?"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_productTypes_dot_components_dot_ProductTypeAttributes_dot_1192828581": {
     "string": "Aucun attribut trouvé"
   },
@@ -4598,6 +4874,13 @@
     "context": "product organization, header",
     "string": "Organisation"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductCreatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductCreatePage_dot_2341910657": {
     "context": "product label",
     "string": "Non publiée"
@@ -4609,10 +4892,13 @@
     "context": "product label",
     "string": "Publié"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_3416636340": {
     "context": "product rating",
     "string": "Product Rating"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_636461959": {
     "context": "product name",
     "string": "Nom"
@@ -4629,9 +4915,12 @@
     "context": "there are more elements of list that are hidden",
     "string": "and {number} more"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1583816707": {
     "string": "Add all channels"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1890035856": {
     "context": "informations about product organization, header",
     "string": "Product Organization"
@@ -4807,9 +5096,19 @@
     "context": "product type",
     "string": "Configurable"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductList_dot_3326160357": {
     "context": "product channels",
     "string": "Disponibilité"
+=======
+  "src_dot_products_dot_components_dot_ProductList_dot_2754779425": {
+    "context": "product type",
+    "string": "Configurable"
+  },
+  "src_dot_products_dot_components_dot_ProductList_dot_3640454975": {
+    "context": "product status",
+    "string": "Publié"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductList_dot_636461959": {
     "context": "product",
@@ -4844,6 +5143,13 @@
     "context": "product shipping",
     "string": "La livraison"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductShipping_dot_1325966144": {
+    "context": "product shipping",
+    "string": "La livraison"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductShipping_dot_746695941": {
     "context": "product weight",
     "string": "Poids"
@@ -4882,6 +5188,13 @@
     "context": "checkbox",
     "string": "Override the product type's tax rate"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2341910657": {
     "context": "product label",
     "string": "Non publiée"
@@ -4892,10 +5205,13 @@
   "src_dot_products_dot_components_dot_ProductUpdatePage_dot_3640454975": {
     "context": "product label",
     "string": "Publié"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_attributesHeader": {
     "context": "attributes, section header",
     "string": "Attributs de la variante"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_attributesSelectionHeader": {
     "context": "attributes, section header",
@@ -5064,6 +5380,7 @@
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1134347598": {
     "string": "Prix"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1387754199": {
     "context": "tabel column header",
     "string": "Selling Price"
@@ -5082,6 +5399,10 @@
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_4097816011": {
     "string": "No channels found"
+=======
+  "src_dot_products_dot_components_dot_ProductVariantPrice_dot_819659341": {
+    "string": "Coût de revient"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantSetDefault_dot_3683859003": {
     "context": "set variant as default, button",
@@ -5167,9 +5488,27 @@
     "context": "window title",
     "string": "Créer une variante"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_views_dot_ProductCreate_dot_1542417144": {
     "context": "window title",
     "string": "Créer produit"
+=======
+  "src_dot_products_dot_views_dot_ProductList_dot_1204353135": {
+    "context": "dialog content",
+    "string": "{counter,plural,one {Êtes-vous sûr de vouloir supprimer ce produit?} other {Êtes-vous sûr de vouloir supprimer {displayQuantity} produits?}}"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1505423810": {
+    "context": "waiting for export to end, header",
+    "string": "Exporting CSV"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1547167026": {
+    "context": "publish product, button",
+    "string": "Publier"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_2036051956": {
+    "context": "dialog content",
+    "string": "{counter,plural,one {Êtes-vous sûr de vouloir dépublier ce produit?} other {Êtes-vous sûr de vouloir dépublier {displayQuantity} produits?}}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_ProductCreate_dot_1591632382": {
     "context": "page header",
@@ -5213,6 +5552,10 @@
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_4108890645": {
     "string": "Produit enlevé "
+  },
+  "src_dot_products_dot_views_dot_ProductUpdate_dot_671489548": {
+    "context": "snackbar text",
+    "string": "Product availability updated"
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_879305849": {
     "context": "dialog header",
@@ -5265,6 +5608,7 @@
   "src_dot_selectAll": {
     "context": "select all options, button",
     "string": "Select All"
+<<<<<<< HEAD
   },
   "src_dot_send": {
     "context": "button",
@@ -5382,6 +5726,19 @@
   },
   "src_dot_shipping_dot_components_dot_ShippingRateZipCodeRangeRemoveDialog_dot_1083561409": {
     "string": "Are you sure you want to remove this ZIP-code rule?"
+=======
+  },
+  "src_dot_send": {
+    "context": "button",
+    "string": "Envoyer"
+  },
+  "src_dot_serviceAccounts": {
+    "context": "service accounts section name",
+    "string": "Comptes service"
+  },
+  "src_dot_sessionExpired": {
+    "string": "Your session has expired. Please log in again to continue."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_components_dot_ShippingRateZipCodeRangeRemoveDialog_dot_2944856644": {
     "context": "header",
@@ -6318,10 +6675,13 @@
   "src_dot_utils_dot_errors_dot_invalidUrlFormat": {
     "string": "Url has invalid format"
   },
+<<<<<<< HEAD
   "src_dot_utils_dot_errors_dot_lessThanMin": {
     "context": "error message",
     "string": "Max value cannot be less than min value"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_utils_dot_errors_dot_misconfigured": {
     "string": "Plugin is misconfigured and cannot be activated"
   },
@@ -6338,7 +6698,11 @@
   },
   "src_dot_utils_dot_errors_dot_notFound": {
     "context": "error message",
+<<<<<<< HEAD
     "string": "Page not found."
+=======
+    "string": "Invoice not found"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_utils_dot_errors_dot_notReady": {
     "context": "error message",
@@ -6505,10 +6869,13 @@
     "context": "event",
     "string": "Checkout updated"
   },
+<<<<<<< HEAD
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1366770851": {
     "context": "event",
     "string": "Order confirmed"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1368317066": {
     "context": "event",
     "string": "Invoice deleted"

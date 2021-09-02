@@ -9,6 +9,7 @@ import { WarehouseClickAndCollectOptionEnum } from "./../../types/globalTypes";
 // GraphQL query operation: OrderFulfillData
 // ====================================================
 
+<<<<<<< HEAD
 export interface OrderFulfillData_order_deliveryMethod_ShippingMethod {
   __typename: "ShippingMethod";
 }
@@ -21,6 +22,8 @@ export interface OrderFulfillData_order_deliveryMethod_Warehouse {
 
 export type OrderFulfillData_order_deliveryMethod = OrderFulfillData_order_deliveryMethod_ShippingMethod | OrderFulfillData_order_deliveryMethod_Warehouse;
 
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 export interface OrderFulfillData_order_lines_allocations_warehouse {
   __typename: "Warehouse";
   id: string;
@@ -80,7 +83,10 @@ export interface OrderFulfillData_order_lines {
   quantity: number;
   allocations: OrderFulfillData_order_lines_allocations[] | null;
   quantityFulfilled: number;
+<<<<<<< HEAD
   quantityToFulfill: number;
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   variant: OrderFulfillData_order_lines_variant | null;
   thumbnail: OrderFulfillData_order_lines_thumbnail | null;
 }

@@ -5,6 +5,7 @@
   },
   "configurationMenuAttributes": {
     "string": "Odredite atribute koji se koriste za kreiranje tipova proizvoda"
+<<<<<<< HEAD
   },
   "configurationMenuChannels": {
     "string": "Define and manage your sales channels"
@@ -14,6 +15,11 @@
   },
   "configurationMenuPageTypes": {
     "string": "Define types of content pages used in your store"
+=======
+  },
+  "configurationMenuNavigation": {
+    "string": "Definišite kako korisnici mogu da se kreću kroz Vašu prodavnicu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "configurationMenuPages": {
     "string": "Upravljajte dodatnim stranicama i dodajte  ih"
@@ -210,6 +216,69 @@
   "orderPaymentVATDoesNotApply": {
     "context": "vat not included in order price",
     "string": "ne primenjuje"
+<<<<<<< HEAD
+=======
+  },
+  "productExportFieldAvailability": {
+    "context": "product field",
+    "string": "Available for purchase"
+  },
+  "productExportFieldCategory": {
+    "context": "product field",
+    "string": "Kategorija"
+  },
+  "productExportFieldCollections": {
+    "context": "product field",
+    "string": "Kolekcije"
+  },
+  "productExportFieldDescription": {
+    "context": "product field",
+    "string": "Opis"
+  },
+  "productExportFieldName": {
+    "context": "product field",
+    "string": "Naziv"
+  },
+  "productExportFieldPrice": {
+    "context": "product field",
+    "string": "Cost Price"
+  },
+  "productExportFieldProductImages": {
+    "context": "product field",
+    "string": "Product Images"
+  },
+  "productExportFieldProductWeight": {
+    "context": "product field",
+    "string": "Export Product Weight"
+  },
+  "productExportFieldTaxes": {
+    "context": "product field",
+    "string": "Charge Taxes"
+  },
+  "productExportFieldType": {
+    "context": "product field",
+    "string": "Tip"
+  },
+  "productExportFieldVariantImages": {
+    "context": "product field",
+    "string": "Variant Images"
+  },
+  "productExportFieldVariantPrice": {
+    "context": "product field",
+    "string": "Variant Price"
+  },
+  "productExportFieldVariantSku": {
+    "context": "product field",
+    "string": "Export Variant SKU"
+  },
+  "productExportFieldVariantWeight": {
+    "context": "product field",
+    "string": "Export Variant Weight"
+  },
+  "productExportFieldVisibility": {
+    "context": "product field",
+    "string": "Vidljivost"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "pageTypeCreateHeader": {
     "context": "window title",
@@ -284,6 +353,12 @@
   },
   "productTypeTaxesInputLabel": {
     "string": "Porezi"
+<<<<<<< HEAD
+=======
+  },
+  "productVariantCreatePricesPriceInputLabel": {
+    "string": "Cena"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productVariantCreatePricesSetPricePlaceholder": {
     "context": "input label",
@@ -304,10 +379,21 @@
     "context": "header",
     "string": "Skladišta"
   },
+<<<<<<< HEAD
   "productVariantWarehouseSectionDescription": {
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
   },
+=======
+  "productVariantPriceOptionalCostPriceField": {
+    "context": "optional field",
+    "string": "Opciono"
+  },
+  "productVariantWarehouseSectionDescription": {
+    "context": "no warehouses info",
+    "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productWarehouseSectionDescription": {
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the product please <a>configure a warehouse</a>"
@@ -740,10 +826,13 @@
   "src_dot_attributes_dot_components_dot_AttributeDetails_dot_1336738461": {
     "context": "product attribute type",
     "string": "Padajući meni"
+<<<<<<< HEAD
   },
   "src_dot_attributes_dot_components_dot_AttributeDetails_dot_1376373679": {
     "context": "file attribute type",
     "string": "File"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_attributes_dot_components_dot_AttributeDetails_dot_2592224946": {
     "context": "check to require attribute to have value",
@@ -821,6 +910,7 @@
   "src_dot_attributes_dot_components_dot_AttributeList_dot_691600601": {
     "context": "attribute's label'",
     "string": "Podrazumevana oznaka"
+<<<<<<< HEAD
   },
   "src_dot_attributes_dot_components_dot_AttributeOrganization_dot_205334083": {
     "string": "Define where this attribute should be used in Saleor system"
@@ -839,6 +929,8 @@
   "src_dot_attributes_dot_components_dot_AttributeOrganization_dot_productAttribute": {
     "context": "attribute type",
     "string": "Product Attribute"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_attributes_dot_components_dot_AttributePage_dot_2855501559": {
     "context": "page title",
@@ -855,17 +947,26 @@
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_26409543": {
     "context": "attribute properties regarding dashboard",
     "string": "Podešavanja komandne table"
+<<<<<<< HEAD
   },
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_3135366329": {
     "context": "attribute visibility in storefront",
     "string": "Public"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_3590282519": {
     "context": "attribute position in storefront filters",
     "string": "Pozicija u fasetiranoj navigaciji"
   },
+<<<<<<< HEAD
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_3758203740": {
     "string": "If enabled, attribute will be accessible to customers."
+=======
+  "src_dot_attributes_dot_components_dot_AttributeProperties_dot_3876764312": {
+    "context": "attribute",
+    "string": "Vidljivo na produkcionoj stranici u prodavnici"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_attributes_dot_components_dot_AttributeProperties_dot_4048785456": {
     "string": "Ako je omogućen, ovaj atribut može biti upotrebljen kao kolona u tabeli proizvoda."
@@ -1078,6 +1179,13 @@
   "src_dot_categories_dot_components_dot_CategoryProductList_dot_1952810469": {
     "context": "product type",
     "string": "Tip"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_categories_dot_components_dot_CategoryProductList_dot_2341910657": {
+    "context": "product",
+    "string": "Nije objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_categories_dot_components_dot_CategoryProductList_dot_3326160357": {
     "context": "availability status",
@@ -1160,6 +1268,7 @@
   "src_dot_categories_dot_views_dot_CategoryList_dot_712767046": {
     "context": "dialog title",
     "string": "Obrišite kategorije"
+<<<<<<< HEAD
   },
   "src_dot_channels": {
     "context": "channels section name",
@@ -1282,6 +1391,8 @@
   "src_dot_chooseFile": {
     "context": "button",
     "string": "Choose file"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_clear": {
     "context": "button",
@@ -1291,6 +1402,13 @@
     "context": "collections section name",
     "string": "Kolekcije"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_2001551496": {
+    "context": "collection",
+    "string": "će biti vidljivo od {date}"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_643174786": {
     "context": "collection label",
     "string": "Vidljivo"
@@ -1306,10 +1424,25 @@
     "context": "page header",
     "string": "Dodajte Kolekciju"
   },
+<<<<<<< HEAD
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
     "context": "collection label",
     "string": "Vidljivo"
   },
+=======
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_2001551496": {
+    "context": "collection",
+    "string": "će biti vidljivo od {date}"
+  },
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_2906897537": {
+    "context": "switch button",
+    "string": "Istaknuto na početnoj stranici "
+  },
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
+    "context": "collection label",
+    "string": "Vidljivo"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_77815154": {
     "context": "collection label",
     "string": "Skriveno"
@@ -1350,6 +1483,13 @@
   },
   "src_dot_collections_dot_components_dot_CollectionList_dot_2137803833": {
     "string": "Nisu pronađene kolekcije"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_collections_dot_components_dot_CollectionList_dot_2341910657": {
+    "context": "collection is not published",
+    "string": "Nije objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_components_dot_CollectionList_dot_2527742754": {
     "string": "Br. Proizvoda"
@@ -1360,6 +1500,13 @@
   "src_dot_collections_dot_components_dot_CollectionList_dot_3326160357": {
     "context": "collection availability",
     "string": "Raspoloživost"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_collections_dot_components_dot_CollectionList_dot_3640454975": {
+    "context": "collection is published",
+    "string": "Objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_components_dot_CollectionProducts_dot_1657559629": {
     "string": "Nisu pronađeni proizvodi"
@@ -1398,9 +1545,12 @@
   },
   "src_dot_collections_dot_views_dot_3482612628": {
     "string": "Obrisani proizvodi iz kolekcije"
+<<<<<<< HEAD
   },
   "src_dot_collections_dot_views_dot_3576236500": {
     "string": "Manage Collection Channel Availability"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_views_dot_3791354625": {
     "context": "dialog title",
@@ -1424,9 +1574,37 @@
   "src_dot_collections_dot_views_dot_942133001": {
     "context": "dialog title",
     "string": "Obrišite sliku"
+<<<<<<< HEAD
   },
   "src_dot_collections_dot_views_dot_CollectionList_dot_2491832187": {
     "string": "{counter,plural,one {Da li ste sigurni da želite da obrišete ovu kolekciju?} few {Da li ste sigurni da želite da obrišete ovu kolekciju?} other {Da li ste sigurni da želite da obrišete {displayQuantity} kolekcije?}}"
+=======
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_1547167026": {
+    "context": "publish collections",
+    "string": "Objavite"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_1944626595": {
+    "string": "{counter,plural,one {Da li ste sigurni da želite da poništite objavljivanje ove kolekcije?} few {Da li ste sigurni da želite da poništite objavljivanje ove kolekcije?} other {Da li ste sigurni da želite da obustavite objavljivanje {displayQuantity} kolekcija?}}"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2237014112": {
+    "context": "unpublish collections",
+    "string": "Obustavite objavljivanje"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2491832187": {
+    "string": "{counter,plural,one {Da li ste sigurni da želite da obrišete ovu kolekciju?} few {Da li ste sigurni da želite da obrišete ovu kolekciju?} other {Da li ste sigurni da želite da obrišete {displayQuantity} kolekcije?}}"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2637364047": {
+    "context": "dialog title",
+    "string": "Obustavite objavljivanje kolekcija"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2756013640": {
+    "string": "{counter,plural,one {Da li ste sigurni da želite da objaivite ovu kolekciju?} few {Da li ste sigurni da želite da objaivite ovu kolekciju?} other {Da li ste sigurni da želite da objaivite {displayQuantity} kolekcije?}}"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2823425739": {
+    "context": "dialog title",
+    "string": "Objavite kolekcije"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_views_dot_CollectionList_dot_3817188998": {
     "context": "dialog title",
@@ -1475,8 +1653,14 @@
   "src_dot_components_dot_AddressEdit_dot_944851093": {
     "string": "Oblast"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AppStatus_dot_1624959454": {
     "string": "If you want to disable this App please uncheck the box below."
+=======
+  "src_dot_components_dot_AppLayout_dot_21332146": {
+    "context": "button",
+    "string": "Odjava"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_AppStatus_dot_1750277107": {
     "context": "section header",
@@ -1484,6 +1668,7 @@
   },
   "src_dot_components_dot_AssignAttributeDialog_dot_2173976534": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Dodelite atribute"
   },
   "src_dot_components_dot_AssignAttributeDialog_dot_3922579741": {
@@ -1499,6 +1684,17 @@
   "src_dot_components_dot_AssignAttributeDialog_dot_902296540": {
     "string": "Pretraži atribute"
   },
+=======
+    "string": "Podešavanje Naloga"
+  },
+  "src_dot_components_dot_AppStatus_dot_1624959454": {
+    "string": "If you want to disable this App please uncheck the box below."
+  },
+  "src_dot_components_dot_AppStatus_dot_1750277107": {
+    "context": "section header",
+    "string": "App Status"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AssignCategoryDialog_dot_3125506097": {
     "context": "dialog header",
     "string": "Assign Category"
@@ -1536,6 +1732,7 @@
   "src_dot_components_dot_AssignProductDialog_dot_649693468": {
     "context": "dialog header",
     "string": "Dodelite proizvod"
+<<<<<<< HEAD
   },
   "src_dot_components_dot_AttributeUnassignDialog_dot_2037985699": {
     "string": "Are you sure you want to unassign {attributeName} from {itemTypeName}?"
@@ -1555,6 +1752,8 @@
   "src_dot_components_dot_Attributes_dot_valueLabel": {
     "context": "attribute value",
     "string": "Vrednost"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_AutocompleteSelectMenu_dot_2332404293": {
     "string": "Nema rezultata"
@@ -1563,6 +1762,7 @@
     "context": "product availability",
     "string": "Available for purchase"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_2162667201": {
     "context": "channel publication date",
     "string": "Visible since {date}"
@@ -1571,18 +1771,24 @@
     "context": "product publication date label",
     "string": "will become published on {date}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_2938074852": {
     "context": "product available for purchase date",
     "string": "will become available on {date}"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_3285520461": {
     "context": "channel publication date",
     "string": "Will become available on {date}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_570524410": {
     "context": "product availability date label",
     "string": "Set availability date"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_643174786": {
     "context": "channel publication status",
     "string": "Vidljivo"
@@ -1666,6 +1872,11 @@
   "src_dot_components_dot_ChannelsAvailability_dot_4037103586": {
     "context": "section header button",
     "string": "Upravljajte"
+=======
+  "src_dot_components_dot_AvailabilityCard_dot_825317195": {
+    "context": "product unavailability",
+    "string": "Unavailable for purchase"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_ColumnPicker_dot_1483881697": {
     "context": "button",
@@ -1991,12 +2202,40 @@
   "src_dot_components_dot_NotFoundPage_dot_678743710": {
     "context": "button",
     "string": "Vratite se na komandnu tablu"
+<<<<<<< HEAD
   },
   "src_dot_components_dot_PriceField_dot_4072537038": {
     "string": "Price cannot be lower than 0"
   },
   "src_dot_components_dot_RadioGroupField_dot_4205644805": {
     "string": "Nema rezultata"
+=======
+  },
+  "src_dot_components_dot_RadioGroupField_dot_4205644805": {
+    "string": "Nema rezultata"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_1603794322": {
+    "context": "dialog header",
+    "string": "Dodajte Link Slike"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_2049070632": {
+    "context": "replace image, button",
+    "string": "Zamenite"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_2160163587": {
+    "context": "button",
+    "string": "Dodajte ili izmenite link"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_286109898": {
+    "context": "rich text error",
+    "string": "Nevažeći sadržaj"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_2925475978": {
+    "string": "Veb-stranica povezana"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_4035057905": {
+    "string": "Slika veb-stranice"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_RowNumberSelect_dot_1154361791": {
     "string": "Broj redova"
@@ -2066,6 +2305,7 @@
   "src_dot_components_dot_Timeline_dot_3028189627": {
     "string": "Ostavite Vaš zapis ovde..."
   },
+<<<<<<< HEAD
   "src_dot_components_dot_UserChip_dot_21332146": {
     "context": "button",
     "string": "Odjava"
@@ -2078,6 +2318,8 @@
     "context": "button",
     "string": "Enable Dark Mode"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_VisibilityCard_dot_1311467573": {
     "string": "Show in product listings"
   },
@@ -2146,6 +2388,7 @@
   },
   "src_dot_configuration_dot_3140151600": {
     "string": "Podešavanja osoblja"
+<<<<<<< HEAD
   },
   "src_dot_configuration_dot_3351299924": {
     "string": "Content Management"
@@ -2155,6 +2398,11 @@
   },
   "src_dot_configuration_dot_887806978": {
     "string": "Multichannel"
+=======
+  },
+  "src_dot_configuration_dot_3655543906": {
+    "string": "Podešavanja proizvoda"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_confirm": {
     "context": "button",
@@ -2314,6 +2562,13 @@
   "src_dot_customers_dot_components_dot_CustomerListPage_dot_joinDate": {
     "context": "customer",
     "string": "Datum pristupanja"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_customers_dot_components_dot_CustomerListPage_dot_moneySpent": {
+    "context": "customer",
+    "string": "Potrošeno novca"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_customers_dot_components_dot_CustomerListPage_dot_numberOfOrders": {
     "string": "Broj porudžbina"
@@ -2489,6 +2744,13 @@
   "src_dot_discounts_dot_components_dot_DiscountProducts_dot_2100305525": {
     "context": "button",
     "string": "Dodelite proizvode"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_discounts_dot_components_dot_DiscountProducts_dot_2341910657": {
+    "context": "product is not published",
+    "string": "Nije objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_components_dot_DiscountProducts_dot_2697405188": {
     "string": "Naziv proizvoda"
@@ -2600,6 +2862,7 @@
   "src_dot_discounts_dot_components_dot_SaleValue_dot_1205967018": {
     "context": "sale discount",
     "string": "Vrednost popusta"
+<<<<<<< HEAD
   },
   "src_dot_discounts_dot_components_dot_SaleValue_dot_1615342575": {
     "context": "channels sale info",
@@ -2611,6 +2874,8 @@
   "src_dot_discounts_dot_components_dot_SaleValue_dot_507892781": {
     "context": "column title",
     "string": "Channel name"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_components_dot_VoucherCreatePage_dot_1357216572": {
     "context": "page header",
@@ -2740,6 +3005,7 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherList_dot_79160621": {
     "string": "Nisu pronađeni vaučeri"
+<<<<<<< HEAD
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_1148029984": {
     "context": "column title",
@@ -2747,6 +3013,8 @@
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_1615342575": {
     "string": "Channels that don’t have assigned discounts will use their parent channel to define the price. Price will be converted to channel’s currency"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_2746532349": {
     "context": "voucher requirements, header",
@@ -2759,6 +3027,7 @@
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_3740704788": {
     "context": "voucher requirement",
     "string": "Minimalna količina artikala"
+<<<<<<< HEAD
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_4097816011": {
     "string": "No channels found"
@@ -2766,6 +3035,8 @@
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_507892781": {
     "context": "column title",
     "string": "Channel name"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_components_dot_VoucherRequirements_dot_653777456": {
     "context": "voucher requirement",
@@ -2806,10 +3077,13 @@
   "src_dot_discounts_dot_components_dot_VoucherTypes_dot_46415128": {
     "context": "voucher discount type",
     "string": "Fiksni iznos"
+<<<<<<< HEAD
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1134347598": {
     "context": "column title",
     "string": "Cena"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1148029984": {
     "context": "section header",
@@ -2821,6 +3095,7 @@
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1492866942": {
     "context": "voucher application, switch button",
     "string": "Samo jednom po porudžbini"
+<<<<<<< HEAD
   },
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_1615342575": {
     "string": "Channels that don’t have assigned discounts will use their parent channel to define the price. Price will be converted to channel’s currency"
@@ -2837,6 +3112,14 @@
   "src_dot_discounts_dot_components_dot_VoucherValue_dot_507892781": {
     "context": "column title",
     "string": "Channel name"
+=======
+  },
+  "src_dot_discounts_dot_components_dot_VoucherValue_dot_1960678372": {
+    "string": "Specifična informacija o vaučeru"
+  },
+  "src_dot_discounts_dot_components_dot_VoucherValue_dot_4189095909": {
+    "string": "Ako je ova opcija onemogućena, popust će se računati za svaki proizvod koji ispunjava uslove"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_order": {
     "context": "voucher discount",
@@ -2850,34 +3133,69 @@
     "context": "voucher discount",
     "string": "Dostava"
   },
+<<<<<<< HEAD
   "src_dot_discounts_dot_views_dot_SaleCreate_dot_3707049729": {
     "string": "Uspešno kreirana prodaja"
   },
   "src_dot_discounts_dot_views_dot_SaleCreate_dot_480188715": {
     "string": "Manage Sales Channel Availability"
+=======
+  "src_dot_discounts_dot_views_dot_1162257691": {
+    "string": "Obrisani vaučer"
+  },
+  "src_dot_discounts_dot_views_dot_1402402714": {
+    "context": "dialog header",
+    "string": "Uklonite kolekcije iz vaučera"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_1457489953": {
     "context": "dialog content",
     "string": "Da li ste sigurni da želite da obrišete {saleName}?"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_discounts_dot_views_dot_1827854264": {
+    "context": "dialog header",
+    "string": "Uklonite kategorije iz prodaje"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_1827854264": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Uklonite kategorije iz prodaje"
+=======
+    "string": "Uklonite kolekcije iz prodaje"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_1952217501": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Uklonite kolekcije iz prodaje"
+=======
+    "string": "Uklonite proizvode iz vaučera"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_2353723060": {
     "context": "dialog content",
-    "string": "{counter,plural,one {Are you sure you want to unassign this category?} other {Are you sure you want to unassign {displayQuantity} categories?}}"
+    "string": "{counter,plural,one {Da li sigurno želite da uklonite ovu kategoriju?} few {Da li sigurno želite da uklonite ovu kategoriju?} other {Da li sigurno želite da uklonite {displayQuantity}  kategorije?}}"
   },
+<<<<<<< HEAD
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_2534378844": {
     "string": "Uklonjena prodaja"
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_3215481647": {
+=======
+  "src_dot_discounts_dot_views_dot_2534378844": {
+    "string": "Uklonjena prodaja"
+  },
+  "src_dot_discounts_dot_views_dot_2669520431": {
+    "context": "dialog header",
+    "string": "Uklonite kategorije iz vaučera"
+  },
+  "src_dot_discounts_dot_views_dot_3215481647": {
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
     "context": "dialog content",
-    "string": "{counter,plural,one {Are you sure you want to unassign this product?} other {Are you sure you want to unassign {displayQuantity} products?}}"
+    "string": "{counter,plural,one {Da li ste sigurni da želite da uklonite ovaj proizvod?} few {Da li ste sigurni da želite da uklonite ovaj proizvod?} other {Da li ste sigurni da želite da uklonite  {displayQuantity} proizvode?}}"
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_3395246518": {
     "context": "dialog header",
@@ -2892,10 +3210,15 @@
   },
   "src_dot_discounts_dot_views_dot_SaleDetails_dot_767268203": {
     "context": "dialog content",
+<<<<<<< HEAD
     "string": "{counter,plural,one {Are you sure you want to unassign this collection?} other {Are you sure you want to unassign {displayQuantity} collections?}}"
+=======
+    "string": "Da li ste sigurni da želite da obrišete {voucherCode}? "
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_SaleList_dot_2809303671": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Obrišite prodaje"
   },
   "src_dot_discounts_dot_views_dot_SaleList_dot_372098008": {
@@ -2907,32 +3230,58 @@
   },
   "src_dot_discounts_dot_views_dot_VoucherCreate_dot_655651329": {
     "string": "Uspešno kreiran vaučer"
+=======
+    "string": "Uklonite proizvode iz prodaje"
+  },
+  "src_dot_discounts_dot_views_dot_3707049729": {
+    "string": "Uspešno kreirana prodaja"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_1162257691": {
     "string": "Obrisani vaučer"
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_1402402714": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Uklonite kolekcije iz vaučera"
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_2072403265": {
     "context": "dialog header",
     "string": "Uklonite proizvode iz vaučera"
+=======
+    "string": "Obrišite prodaju"
+  },
+  "src_dot_discounts_dot_views_dot_655651329": {
+    "string": "Uspešno kreiran vaučer"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_2353723060": {
     "context": "dialog content",
+<<<<<<< HEAD
     "string": "{counter,plural,one {Are you sure you want to unassign this category?} other {Are you sure you want to unassign {displayQuantity} categories?}}"
+=======
+    "string": "{counter,plural,one {Da li ste sigurni da želite da uklonite ovu kolekciju?} few {Da li ste sigurni da želite da uklonite ovu kolekciju?} other {Da li ste sigurni da želite da uklonite {displayQuantity} kolekcije?}}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_2669520431": {
     "context": "dialog header",
+<<<<<<< HEAD
     "string": "Uklonite kategorije iz vaučera"
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_3215481647": {
     "context": "dialog content",
     "string": "{counter,plural,one {Are you sure you want to unassign this product?} other {Are you sure you want to unassign {displayQuantity} products?}}"
+=======
+    "string": "Obrišite vaučer"
+  },
+  "src_dot_discounts_dot_views_dot_SaleList_dot_2809303671": {
+    "context": "dialog header",
+    "string": "Obrišite prodaje"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_3261917848": {
     "context": "dialog content",
+<<<<<<< HEAD
     "string": "Da li ste sigurni da želite da obrišete {voucherCode}? "
   },
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_3823295269": {
@@ -2945,6 +3294,9 @@
   "src_dot_discounts_dot_views_dot_VoucherDetails_dot_895379508": {
     "context": "dialog header",
     "string": "Obrišite vaučer"
+=======
+    "string": "{counter,plural,one {Da li sigurno želite da obrišete ovu prodaju?} few {Da li sigurno želite da obrišete ovu prodaju?} other {Da li sigurno želite da obrišete {displayQuantity} prodaje?}}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_discounts_dot_views_dot_VoucherList_dot_2983742638": {
     "context": "dialog content",
@@ -2981,10 +3333,13 @@
   },
   "src_dot_endHour": {
     "string": "Sat završetka"
+<<<<<<< HEAD
   },
   "src_dot_exchangeRates": {
     "context": "Manage and Update your warehouse information",
     "string": "Exchange Rates"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_firstName": {
     "string": "Ime"
@@ -3044,10 +3399,13 @@
   "src_dot_orders": {
     "context": "orders section name",
     "string": "Porudžbine"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_DraftOrderChannelSectionCard_dot_1243773440": {
     "context": "section header",
     "string": "Sales channel"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderAddressEditDialog_dot_3278396777": {
     "context": "dialog header",
@@ -3073,10 +3431,13 @@
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_775268031": {
     "string": "I dalje postoje kreirane realizacije na porudžbini. Prvo otkažite realizacije pre nego što otkažete porudžbinu."
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderChannelSectionCard_dot_1243773440": {
     "context": "section header",
     "string": "Sales channel"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderCustomerNote_dot_1505053535": {
     "string": "Kupac nije ostavio zapis"
@@ -3116,10 +3477,13 @@
   "src_dot_orders_dot_components_dot_OrderDetailsPage_dot_1854613983": {
     "context": "button",
     "string": "Otkažite porudžbinu"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderDetailsPage_dot_3086420445": {
     "context": "save button",
     "string": "confirm order"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderDraftCancelDialog_dot_1961675716": {
     "context": "dialog header",
@@ -3134,13 +3498,28 @@
   },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_1895667608": {
     "string": "Proizvod"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_270371448": {
+    "string": "Product is out of stock"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2796503714": {
     "context": "quantity of ordered products",
     "string": "Količina"
   },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2963336581": {
+    "string": "Product is unavailable to purchase"
+  },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_546865199": {
     "string": "Ni jedan proizvod nije dodat u porudžbinu"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_59548500": {
+    "string": "Product is hidden"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_878013594": {
     "context": "total price of ordered products",
@@ -3307,10 +3686,13 @@
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2211099657": {
     "context": "fulfillment group tracking number",
     "string": "Edit tracking"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2567258278": {
     "context": "refunded fulfillment, section header",
     "string": "Refunded ({quantity})"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2796503714": {
     "context": "ordered product quantity",
@@ -3342,14 +3724,18 @@
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_878013594": {
     "context": "order line total price",
     "string": "Konačan iznos"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1154330234": {
     "context": "transaction reference",
     "string": "Transaction Reference {transactionReference}"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1230178536": {
     "context": "order history message",
     "string": "Adresa porudžbine je ažurirana"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_123236698": {
     "string": "Shipment was refunded"
@@ -3360,6 +3746,8 @@
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1463685940": {
     "context": "order history message",
     "string": "Order was marked as paid"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_1521936480": {
     "context": "order history message",
@@ -3408,10 +3796,13 @@
   "src_dot_orders_dot_components_dot_OrderHistory_dot_2655541129": {
     "context": "order history message",
     "string": "Porudžbina je u celosti plaćena"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_276183305": {
     "context": "order history message",
     "string": "Order was confirmed"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_2770854455": {
     "context": "order history message",
@@ -3424,10 +3815,21 @@
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3095247195": {
     "context": "order history message",
     "string": "Kreirana je pripremna porudžbina"
+<<<<<<< HEAD
+=======
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3237374063": {
     "context": "order history message",
     "string": "Payment was authorized"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
+  },
+  "src_dot_orders_dot_components_dot_OrderHistory_dot_3237374063": {
+    "context": "order history message",
+<<<<<<< HEAD
+    "string": "Payment was authorized"
+=======
+    "string": "Porudžbina označena kao plaćena"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3453124210": {
     "context": "order history message",
@@ -3441,10 +3843,13 @@
     "context": "order history message",
     "string": "Proizvodi su dodati u pripremnu porudžbinu"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3731274949": {
     "context": "order history message",
     "string": "Order was refunded by {refundedBy}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_393045022": {
     "context": "order history message",
     "string": "Invoice no. {invoiceNumber} was updated"
@@ -3472,9 +3877,12 @@
     "context": "order history message",
     "string": "Plaćanje nije uspelo"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_492197448": {
     "string": "Products refunded"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_493321552": {
     "context": "order history message",
     "string": "Order cancel information was sent to customer"
@@ -3520,10 +3928,13 @@
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_949234851": {
     "context": "generate invoice button",
     "string": "Generate"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2225897825": {
     "context": "button",
     "string": "Order Settings"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2826235371": {
     "context": "button",
@@ -3568,6 +3979,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderList_dot_898333473": {
     "string": "Nije pronađena porudžbina"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderMarkAsPaidDialog_dot_1739834732": {
     "context": "transaction reference",
@@ -3578,6 +3990,11 @@
   },
   "src_dot_orders_dot_components_dot_OrderMarkAsPaidDialog_dot_2105685861": {
     "string": "You're going to mark this order as paid."
+=======
+  },
+  "src_dot_orders_dot_components_dot_OrderMarkAsPaidDialog_dot_2823153104": {
+    "string": "Da li ste sigurni da želite ovu porudžbinu da označite kao plaćenu?"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderMarkAsPaidDialog_dot_4196844912": {
     "context": "dialog header",
@@ -3586,6 +4003,13 @@
   "src_dot_orders_dot_components_dot_OrderPaymentDialog_dot_1466130374": {
     "context": "dialog header",
     "string": "Rezerviši sredstva"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_orders_dot_components_dot_OrderPaymentDialog_dot_250371749": {
+    "context": "dialog header",
+    "string": "Refundiraj uplatu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderPaymentDialog_dot_75546233": {
     "context": "amount of refunded money",
@@ -3597,10 +4021,13 @@
   "src_dot_orders_dot_components_dot_OrderPaymentVoidDialog_dot_3089049828": {
     "context": "dialog header",
     "string": "Poništi plaćanje"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderPayment_dot_1322321687": {
     "context": "order payment",
     "string": "Refunded amount"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderPayment_dot_1325966144": {
     "context": "order shipping method name",
@@ -3673,6 +4100,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderProductAddDialog_dot_353369701": {
     "string": "Ni jedan artikal ne odgovara pretrazi"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_1580639738": {
     "context": "order refund amount",
@@ -3848,6 +4276,8 @@
   "src_dot_orders_dot_components_dot_OrderSettings_dot_513393066": {
     "context": "checkbox label",
     "string": "Automatically confirm all orders"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_components_dot_OrderShippingMethodEditDialog_dot_3369240294": {
     "context": "dialog header",
@@ -3929,6 +4359,12 @@
   },
   "src_dot_orders_dot_views_dot_OrderDetails_dot_617145655": {
     "string": "Način isporuke uspešno ažuriran"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_orders_dot_views_dot_OrderDetails_dot_667274681": {
+    "string": "Uplata uspešno refundirana"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_orders_dot_views_dot_OrderDetails_dot_694622335": {
     "context": "window title",
@@ -3965,6 +4401,7 @@
   },
   "src_dot_orders_dot_views_dot_OrderList_dot_1738939038": {
     "string": "Priprema porudžbine je uspešno kreirana"
+<<<<<<< HEAD
   },
   "src_dot_orders_dot_views_dot_OrderRefund_dot_1366101924": {
     "context": "order refunded success message",
@@ -4079,6 +4516,8 @@
   },
   "src_dot_pageTypes_dot_views_dot_98187848": {
     "string": "Successfully created page type"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_pages": {
     "context": "pages section name",
@@ -4137,6 +4576,7 @@
   "src_dot_pages_dot_components_dot_PageList_dot_3767550649": {
     "context": "page status",
     "string": "Nije objavljeno"
+<<<<<<< HEAD
   },
   "src_dot_pages_dot_components_dot_PageOrganizeContent_dot_2959504520": {
     "string": "Content type"
@@ -4144,6 +4584,8 @@
   "src_dot_pages_dot_components_dot_PageOrganizeContent_dot_590187004": {
     "context": "section header",
     "string": "Organize Content"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_pages_dot_views_dot_1068617485": {
     "context": "header",
@@ -4448,6 +4890,33 @@
   "src_dot_productTypes": {
     "context": "product types section name",
     "string": "Tipovi proizvoda"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_2173976534": {
+    "context": "button",
+    "string": "Dodelite atribute"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_3922579741": {
+    "context": "dialog header",
+    "string": "Dodelite atribut"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_4205644805": {
+    "string": "Nema rezultata"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_524117994": {
+    "string": "Pretražite prema nazivu atributa"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_902296540": {
+    "string": "Pretraži atribute"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_404238501": {
+    "context": "dialog header",
+    "string": "Uklonite atribut iz tipa proizvoda"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_722498450": {
+    "string": "Da li ste sigurni da želite da uklonite {atributNaziv}  iz {proizvodTipNaziv}?"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeAttributes_dot_1192828581": {
     "string": "Nisu pronađeni atributi"
@@ -4470,6 +4939,17 @@
   "src_dot_productTypes_dot_components_dot_ProductTypeAttributes_dot_888493112": {
     "context": "section header",
     "string": "Atributi varijante"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeBulkAttributeUnassignDialog_dot_2646729060": {
+    "context": "unassign multiple attributes from product type",
+    "string": "{counter,plural,one {Da li sigurno želite da uklonite ovaj atribut iz {productTypeName}?} few {Da li sigurno želite da uklonite ovaj atribut iz {productTypeName}?} other {Da li sigurno želite da uklonite {attributeQuantity} atributa iz {productTypeName}?}}"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeBulkAttributeUnassignDialog_dot_766918870": {
+    "context": "dialog header",
+    "string": "Ukloni atribut iz tipa proizovda"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_productTypes_dot_components_dot_ProductTypeDeleteDialog_dot_2297471173": {
     "context": "delete product type",
@@ -4571,6 +5051,7 @@
   },
   "src_dot_productTypes_dot_views_dot_ProductTypeUpdate_dot_3512959355": {
     "string": "Obrisan tip proizvoda"
+<<<<<<< HEAD
   },
   "src_dot_productTypes_dot_views_dot_ProductTypeUpdate_dot_404238501": {
     "context": "dialog header",
@@ -4579,6 +5060,8 @@
   "src_dot_productTypes_dot_views_dot_ProductTypeUpdate_dot_766918870": {
     "context": "dialog header",
     "string": "Ukloni atribut iz tipa proizovda"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_productTypes_dot_views_dot_ProductTypeUpdate_dot_870815507": {
     "context": "unassign attribute from product type, button",
@@ -4588,6 +5071,25 @@
     "context": "products section name",
     "string": "Proizvodi"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductAttributes_dot_1071548120": {
+    "context": "number of product attributes",
+    "string": "{number} atributa"
+  },
+  "src_dot_products_dot_components_dot_ProductAttributes_dot_1148029984": {
+    "context": "attribute value",
+    "string": "Vrednost"
+  },
+  "src_dot_products_dot_components_dot_ProductAttributes_dot_1207761269": {
+    "context": "attribute values",
+    "string": "Vrednosti"
+  },
+  "src_dot_products_dot_components_dot_ProductAttributes_dot_4153345096": {
+    "context": "product attributes, section header",
+    "string": "Atributi"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductCategoryAndCollectionsForm_dot_1755013298": {
     "string": "Kategorija"
   },
@@ -4597,6 +5099,13 @@
   "src_dot_products_dot_components_dot_ProductCategoryAndCollectionsForm_dot_3829816432": {
     "context": "product organization, header",
     "string": "Organizacija"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductCreatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductCreatePage_dot_2341910657": {
     "context": "product label",
@@ -4608,10 +5117,13 @@
   "src_dot_products_dot_components_dot_ProductCreatePage_dot_3640454975": {
     "context": "product label",
     "string": "Objavljeno"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_3416636340": {
     "context": "product rating",
     "string": "Product Rating"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_636461959": {
     "context": "product name",
@@ -4629,9 +5141,12 @@
     "context": "there are more elements of list that are hidden",
     "string": "and {number} more"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1583816707": {
     "string": "Add all channels"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1890035856": {
     "context": "informations about product organization, header",
     "string": "Product Organization"
@@ -4749,10 +5264,20 @@
   "src_dot_products_dot_components_dot_ProductListPage_dot_1952810469": {
     "context": "product type",
     "string": "Tip"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductListPage_dot_2059406063": {
     "context": "export products to csv file, button",
     "string": "Export Products"
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductListPage_dot_2059406063": {
+    "context": "export products to csv file, button",
+    "string": "Export Products"
+  },
+  "src_dot_products_dot_components_dot_ProductListPage_dot_3550330425": {
+    "string": "Pretraži proizvode..."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductListPage_dot_3550330425": {
     "string": "Pretraži proizvode..."
@@ -4802,14 +5327,27 @@
   "src_dot_products_dot_components_dot_ProductList_dot_1952810469": {
     "context": "product type",
     "string": "Tip"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductList_dot_2341910657": {
+    "context": "product status",
+    "string": "Nije objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductList_dot_2754779425": {
     "context": "product type",
     "string": "Konfigurabilno"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductList_dot_3326160357": {
     "context": "product channels",
     "string": "Raspoloživost"
+=======
+  "src_dot_products_dot_components_dot_ProductList_dot_3640454975": {
+    "context": "product status",
+    "string": "Objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductList_dot_636461959": {
     "context": "product",
@@ -4839,11 +5377,25 @@
   },
   "src_dot_products_dot_components_dot_ProductOrganization_dot_4257289053": {
     "string": "Tip proizvoda"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductPricing_dot_1099355007": {
+    "context": "product pricing",
+    "string": "Određivanje cena"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductShipping_dot_1325966144": {
     "context": "product shipping",
     "string": "Dostava"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductShipping_dot_1325966144": {
+    "context": "product shipping",
+    "string": "Dostava"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductShipping_dot_746695941": {
     "context": "product weight",
     "string": "Težina"
@@ -4854,6 +5406,13 @@
   "src_dot_products_dot_components_dot_ProductStocks_dot_2622674857": {
     "context": "tabel column header",
     "string": "Naziv skladišta"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductStocks_dot_2729628316": {
+    "context": "tabel column header",
+    "string": "Dostupne količine"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductStocks_dot_2796503714": {
     "context": "header",
@@ -4877,6 +5436,7 @@
   "src_dot_products_dot_components_dot_ProductTaxes_dot_2022558114": {
     "context": "select tax ratte",
     "string": "Poreska stopa"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductTaxes_dot_2771905943": {
     "context": "checkbox",
@@ -4900,14 +5460,43 @@
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_attributesSelectionHeader": {
     "context": "attributes, section header",
     "string": "Variant Selection Attributes"
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductTaxes_dot_2771905943": {
+    "context": "checkbox",
+    "string": "Override the product type's tax rate"
+  },
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+  },
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2341910657": {
+    "context": "product label",
+    "string": "Nije objavljeno"
+  },
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2706108815": {
+    "string": "Dodajte naziv i opis u pretraživač da se lakše pronađe ovaj proizvod"
+  },
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_3640454975": {
+    "context": "product label",
+    "string": "Objavljeno"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_deleteVariant": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Obrišite varijantu"
+=======
+    "string": "Sačuvajte varijantu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_saveVariant": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Sačuvajte varijantu"
+=======
+    "string": "Obrišite varijantu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_1134347598": {
     "context": "variant price, header",
@@ -4935,10 +5524,13 @@
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_2158649399": {
     "context": "product attribute values, page title",
     "string": "Izaberite vrednosti"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_2330516954": {
     "context": "variant channel price",
     "string": "{channel} Price"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_2478977538": {
     "context": "attribute values, variant creation step",
@@ -4954,9 +5546,12 @@
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_2783195765": {
     "string": "Primenite jednu cenu na sve oznake pojedinačnih artikala - SKU"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_2877822536": {
     "string": "Skip pricing for now"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_3387090508": {
     "string": "Primenite jedinstvene zalihe po atributu na svaku oznaku pojedinačnog artikla - SKU"
@@ -5048,6 +5643,7 @@
   "src_dot_products_dot_components_dot_ProductVariantNavigation_dot_3185562157": {
     "context": "variant name",
     "string": "Nova varijanta"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantPage_dot_nonSelectionAttributes": {
     "context": "attributes, section header",
@@ -5056,10 +5652,13 @@
   "src_dot_products_dot_components_dot_ProductVariantPage_dot_selectionAttributesHeader": {
     "context": "attributes, section header",
     "string": "Variant Selection Attributes"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1099355007": {
     "context": "product pricing, section header",
     "string": "Određivanje cena"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1134347598": {
     "string": "Cena"
@@ -5083,6 +5682,15 @@
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_4097816011": {
     "string": "No channels found"
   },
+=======
+  },
+  "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1134347598": {
+    "string": "Cena"
+  },
+  "src_dot_products_dot_components_dot_ProductVariantPrice_dot_819659341": {
+    "string": "Cena"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductVariantSetDefault_dot_3683859003": {
     "context": "set variant as default, button",
     "string": "Set as default"
@@ -5148,6 +5756,17 @@
   "src_dot_products_dot_components_dot_ProductVariants_dot_998917294": {
     "context": "product variant name",
     "string": "Varijanta"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_views_dot_1542417144": {
+    "context": "window title",
+    "string": "Kreirajte proizvod"
+  },
+  "src_dot_products_dot_views_dot_1591632382": {
+    "context": "page header",
+    "string": "Novi proizvod"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_1731766393": {
     "context": "dialog header",
@@ -5162,10 +5781,17 @@
   },
   "src_dot_products_dot_views_dot_2880386427": {
     "string": "Da li ste sigurni da želite da obrišete ovu sliku?"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_views_dot_2899821092": {
+    "string": "Proizvod kreiran"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_3989383405": {
     "context": "window title",
     "string": "Kreirajte varijantu"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_views_dot_ProductCreate_dot_1542417144": {
     "context": "window title",
@@ -5180,6 +5806,7 @@
   },
   "src_dot_products_dot_views_dot_ProductCreate_dot_3423943948": {
     "string": "Manage Products Channel Availability"
+=======
   },
   "src_dot_products_dot_views_dot_ProductList_dot_1204353135": {
     "context": "dialog content",
@@ -5188,6 +5815,39 @@
   "src_dot_products_dot_views_dot_ProductList_dot_1505423810": {
     "context": "waiting for export to end, header",
     "string": "Exporting CSV"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1547167026": {
+    "context": "publish product, button",
+    "string": "Objavite"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_2036051956": {
+    "context": "dialog content",
+    "string": "{counter,plural,one {Da li ste sigurni da želite da poništite objavljivanje ovog proizvoda?} few {Da li ste sigurni da želite da poništite objavljivanje ovog proizvoda?} other {Da li ste sigurni da želite da obustavite objavljivanje {displayQuantity}  proizvoda?}}"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_2237014112": {
+    "context": "unpublish product, button",
+    "string": "Obustavite objavljivanje"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_2946646245": {
+    "context": "dialog header",
+    "string": "Objavi proizvode"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_3362608461": {
+    "context": "dialog header",
+    "string": "Obustavite objavljivanje proizvoda"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1204353135": {
+    "context": "dialog content",
+<<<<<<< HEAD
+    "string": "{counter,plural,one {Da li ste sigurni da želite da obrišete ovaj proizvod?} few {Da li ste sigurni da želite da obrišete ovaj proizvod?} other {Da li ste sigurni da želite da obrišete {displayQuantity} proizvoda?}}"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1505423810": {
+    "context": "waiting for export to end, header",
+    "string": "Exporting CSV"
+=======
+    "string": "{counter,plural,one {Da li ste sigurni da želite da objavite ovaj proizvod?} few {Da li ste sigurni da želite da objavite ovaj proizvod?} other {Da li ste sigurni da želite da objavite {displayQuantity} proizvoda?}}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_ProductList_dot_400629795": {
     "context": "dialog header",
@@ -5207,12 +5867,22 @@
   "src_dot_products_dot_views_dot_ProductUpdate_dot_2297471173": {
     "context": "delete product",
     "string": "Da li ste sigurni da želite da obrišete {name}?"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_3423943948": {
     "string": "Manage Products Channel Availability"
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_4108890645": {
     "string": "Proizvod uklonjen"
+=======
+  },
+  "src_dot_products_dot_views_dot_ProductUpdate_dot_4108890645": {
+    "string": "Proizvod uklonjen"
+  },
+  "src_dot_products_dot_views_dot_ProductUpdate_dot_671489548": {
+    "context": "snackbar text",
+    "string": "Product availability updated"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_879305849": {
     "context": "dialog header",
@@ -5269,6 +5939,7 @@
   "src_dot_send": {
     "context": "button",
     "string": "Pošaljite"
+<<<<<<< HEAD
   },
   "src_dot_serviceAccounts": {
     "context": "service accounts section name",
@@ -5386,6 +6057,19 @@
   "src_dot_shipping_dot_components_dot_ShippingRateZipCodeRangeRemoveDialog_dot_2944856644": {
     "context": "header",
     "string": "Remove ZIP-codes from Shipping Rate"
+=======
+  },
+  "src_dot_serviceAccounts": {
+    "context": "service accounts section name",
+    "string": "Servisni nalozi"
+  },
+  "src_dot_sessionExpired": {
+    "string": "Vaša sesija je istekla. Molimo Vas da se ponovo prijavite da biste nastavili"
+  },
+  "src_dot_shipping": {
+    "context": "shipping section name",
+    "string": "Način isporuke"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_components_dot_ShippingWeightUnitForm_dot_2863708228": {
     "string": "Ova jedinica će se koristiti kao podrazumevana težina za isporuku"
@@ -5454,6 +6138,7 @@
   },
   "src_dot_shipping_dot_components_dot_ShippingZoneDetailsPage_dot_4270729636": {
     "string": "Ovo je podrazumevana zona za isporuku što znači da pokriva sve države koje nisu dodeljene drugoj zoni za isporuku"
+<<<<<<< HEAD
   },
   "src_dot_shipping_dot_components_dot_ShippingZoneInfo_dot_579967655": {
     "string": "Shipping rate name"
@@ -5471,6 +6156,92 @@
   },
   "src_dot_shipping_dot_components_dot_ShippingZoneRatesPage_dot_1325966144": {
     "string": "Dostava"
+=======
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneInfo_dot_1109610983": {
+    "string": "Naziv zone za isporuku"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1337705349": {
+    "string": "Minimalna vrednos porudžbine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1388947267": {
+    "string": "Ova vrednost će se primeniti na sve porudžbine svih težina"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1397795758": {
+    "context": "add weight based shipping method, dialog header",
+    "string": "Dodaj cenu težine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1403365734": {
+    "context": "shipping method price",
+    "string": "Cena"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1486599614": {
+    "string": "Ovo će se prikazati kupcima prilikom odjave"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1542600502": {
+    "context": "button",
+    "string": "Ažuriraj tarifu"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_16061680": {
+    "context": "button",
+    "string": "Kreiraj tarifu"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_1878009504": {
+    "string": "Minimalna težina porudžbine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_2215090771": {
+    "context": "shipping method, switch button",
+    "string": "Ovo je besplatna isporuka"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_2324036635": {
+    "context": "order weight range",
+    "string": "Raspon težine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_2533614652": {
+    "context": "order price range",
+    "string": "Raspon vrednosti"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_2892088870": {
+    "context": "dialog header",
+    "string": "Dodajte stopu cene"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_3213611593": {
+    "context": "shipping method",
+    "string": "Tarifa"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_3463567334": {
+    "string": "Maksimalna vrednost porudžbine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_3659741519": {
+    "string": "Maksimalna težina porudžbine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_382595300": {
+    "context": "shipping method name",
+    "string": "Naziv tarife"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_3934114933": {
+    "context": "dialog header",
+    "string": "Uredi cenu"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_4152709923": {
+    "context": "edit weight based shipping method, dialog header",
+    "string": "Uredi cenu težine"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_4226393146": {
+    "string": "Ova stopa će se primeniti na sve porudžbine svih cena"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_882649212": {
+    "context": "shipping method has no value limits",
+    "string": "Ne postoje ograničenja vrednosti"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_price": {
+    "context": "error message",
+    "string": "Maksimalna cena ne može biti niža od minimalne"
+  },
+  "src_dot_shipping_dot_components_dot_ShippingZoneRateDialog_dot_weight": {
+    "context": "error message",
+    "string": "Maksimalna težina ne može biti niža od minimalne"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_components_dot_ShippingZoneRates_dot_1134347598": {
     "context": "shipping method price",
@@ -5517,6 +6288,7 @@
   "src_dot_shipping_dot_components_dot_ShippingZoneWarehouses_dot_46197273": {
     "context": "input placeholder",
     "string": "Odaberite skladište"
+<<<<<<< HEAD
   },
   "src_dot_shipping_dot_components_dot_ShippingZoneZipCodeRangeDialog_dot_1938537617": {
     "string": "Please provide range of ZIP codes you want to add to the include/exclude list."
@@ -5565,6 +6337,8 @@
   "src_dot_shipping_dot_components_dot_ShippingZoneZipCodes_dot_671838332": {
     "context": "action",
     "string": "Include ZIP-codes"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_components_dot_ShippingZonesListPage_dot_1325966144": {
     "context": "header",
@@ -5587,6 +6361,7 @@
   },
   "src_dot_shipping_dot_components_dot_ShippingZonesList_dot_655374584": {
     "string": "Nije pronađena zona za dostavu"
+<<<<<<< HEAD
   },
   "src_dot_shipping_dot_components_dot_UnassignDialog_dot_1203193503": {
     "context": "dialog header",
@@ -5603,6 +6378,8 @@
   "src_dot_shipping_dot_price": {
     "context": "error message",
     "string": "Maksimalna cena ne može biti niža od minimalne"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_views_dot_1005071028": {
     "string": "Da li ste sigurni da želite da obrišete zonu dostave {shippingZoneName}?"
@@ -5618,6 +6395,7 @@
   "src_dot_shipping_dot_views_dot_725201918": {
     "context": "dialog content",
     "string": "{counter,plural,one {Da li ste sigurni da želite da obrišete ovu zonu dostave?} few {Da li ste sigurni da želite da obrišete ovu zonu dostave?} other {Da li ste sigurni da želite da obrišete zone za dostavu {shippingZoneName}?}}"
+<<<<<<< HEAD
   },
   "src_dot_shipping_dot_views_dot_PriceRatesCreate_dot_3823295269": {
     "string": "Manage Channel Availability"
@@ -5632,6 +6410,8 @@
   "src_dot_shipping_dot_views_dot_PriceRatesUpdate_dot_870815507": {
     "context": "unassign products from shipping method, button",
     "string": "Uklonite"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_views_dot_ShippingZoneDetails_dot_1010705153": {
     "context": "dialog header",
@@ -5640,10 +6420,18 @@
   "src_dot_shipping_dot_views_dot_ShippingZoneDetails_dot_131963671": {
     "context": "unassign country",
     "string": "Da li ste sigurni da želite da obrišete {countryName} iz ove zone za dostavu?"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_shipping_dot_views_dot_ShippingZoneDetails_dot_1502359905": {
+    "context": "dialog header",
+    "string": "Obrišite način dostave"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_views_dot_ShippingZoneDetails_dot_3133838427": {
     "context": "unassign country, dialog header",
     "string": "Izbrišite iz zone za dostavu"
+<<<<<<< HEAD
   },
   "src_dot_shipping_dot_views_dot_WeightRatesCreate_dot_3014453080": {
     "string": "Manage Channels Availability"
@@ -5662,6 +6450,8 @@
   "src_dot_shipping_dot_weight": {
     "context": "error message",
     "string": "Maksimalna težina ne može biti niža od minimalne"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_show": {
     "context": "button",
@@ -5685,6 +6475,48 @@
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsDetails_dot_529433178": {
     "string": "Opis prodavnice je prikazan na taskbaru nakon imena prodavnice"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_1238948746": {
+    "context": "dialog header",
+    "string": "Dodajte novi autorizaconi ključ"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_2237029987": {
+    "string": "Lozinka"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_2446088470": {
+    "context": "authentication provider API key",
+    "string": "Ključ"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_3039841202": {
+    "context": "authentication provider name",
+    "string": "Tip autentifikacije"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_50561933": {
+    "context": "button",
+    "string": "Dodaj autentifikaciju"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_1114030884": {
+    "context": "button",
+    "string": "Dodaj ključ"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_1270286507": {
+    "context": "authentication provider name",
+    "string": "Tip autentifikacije"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_226491688": {
+    "context": "section header",
+    "string": "Ključevi autentifikacije"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_2446088470": {
+    "context": "authentication provider API key",
+    "string": "Ključ"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_3981699144": {
+    "context": "no authentication provider API keys",
+    "string": "Nema ključeva"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsMailing_dot_1124962330": {
     "string": "Slanje email adrese"
@@ -5714,6 +6546,12 @@
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_1004240342": {
     "string": "Ova adresa će se koristiti da se generišu fakture i proračunaju cene dostave."
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_1214877701": {
+    "string": "Metod autentifikacije definiše dodatne načine kako se kupac može prijaviti u Vašu e-trgovinu."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_229184360": {
     "context": "section header",
@@ -5732,6 +6570,13 @@
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_3799756739": {
     "string": "Ovo su opšti podaci o Vašoj prodavnici. Oni definišu koja je veb-adresa Vaše prodavnice i šta se vidi u taskbaru pretraživača."
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_4088830385": {
+    "context": "section header",
+    "string": "Metodi atutentifikacije"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_siteSettings_dot_components_dot_SiteSettingsPage_dot_866304242": {
     "string": "Ovde ćete naći sva podešavanja koja određuju email Vaše prodavnice. Možete da odredite glavnu email adresu i neki od sadržaja Vašeg email-a."
@@ -6083,6 +6928,18 @@
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_1163855804": {
     "string": "Jezici"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_1866913828": {
+    "string": "Pretraži prodaju"
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_1930485532": {
+    "string": "Pretraži vaučere"
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_2105464697": {
+    "string": "Pretraži proizvod"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_222873645": {
     "string": "Kolekcije"
@@ -6090,27 +6947,53 @@
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_2460580333": {
     "context": "header",
     "string": "Prevod na {language}"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_2559018090": {
+    "string": "Pretraži stranicu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_2968663655": {
     "string": "Proizvodi"
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3287512325": {
     "string": "Stranice"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3420445375": {
+    "string": "Pretražite tip proizvoda"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3583204912": {
     "string": "Kategorije"
   },
+<<<<<<< HEAD
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3731925413": {
     "string": "Shipping methods"
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_4153345096": {
     "string": "Atributi"
+=======
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_3841025483": {
+    "string": "Pretraži kategoriju"
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_4057224233": {
+    "string": "Pretraži kolekciju"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_487083593": {
     "string": "Prodaja"
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_749185240": {
     "string": "Vaučeri"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsEntitiesListPage_dot_765385638": {
+    "string": "Tipovi proizvoda"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsEntitiesList_dot_1136143456": {
     "context": "translation progress",
@@ -6154,17 +7037,35 @@
   },
   "src_dot_translations_dot_components_dot_TranslationsPagesPage_dot_432157284": {
     "string": "Naziv stranice"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsProductTypesPage_dot_1281101905": {
+    "context": "header",
+    "string": "Tip proizvoda za prevođenje \"{productTypeName}\" - {languageCode}"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsProductTypesPage_dot_1567737068": {
     "context": "attribute values",
     "string": "Vrednost  {number}"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_translations_dot_components_dot_TranslationsProductTypesPage_dot_2510190956": {
+    "context": "header",
+    "string": "Atribut proizvoda ({attributeName})"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsProductTypesPage_dot_2642976392": {
     "string": "Naziv atributa"
   },
   "src_dot_translations_dot_components_dot_TranslationsProductTypesPage_dot_884093025": {
     "context": "header",
+<<<<<<< HEAD
     "string": "Translation Attribute \"{attribute}\" - {languageCode}"
+=======
+    "string": "Atribut varijante ({attributeName})"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsProductsPage_dot_1406947243": {
     "string": "Opis pretraživača"
@@ -6191,6 +7092,7 @@
   },
   "src_dot_translations_dot_components_dot_TranslationsSalesPage_dot_898281424": {
     "string": "Naziv prodaje"
+<<<<<<< HEAD
   },
   "src_dot_translations_dot_components_dot_TranslationsShippingMethodPage_dot_3498202636": {
     "context": "header",
@@ -6198,6 +7100,8 @@
   },
   "src_dot_translations_dot_components_dot_TranslationsShippingMethodPage_dot_99732714": {
     "string": "ShippingMethod Name"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_translations_dot_components_dot_TranslationsVouchersPage_dot_2447510181": {
     "context": "header",
@@ -6205,10 +7109,13 @@
   },
   "src_dot_translations_dot_components_dot_TranslationsVouchersPage_dot_2599922713": {
     "string": "Naziv vaučera"
+<<<<<<< HEAD
   },
   "src_dot_unconfirmed": {
     "context": "order status",
     "string": "Unconfirmed"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_undo": {
     "context": "button",
@@ -6276,6 +7183,7 @@
   "src_dot_utils_dot_errors_dot_captureInactive": {
     "context": "error message",
     "string": "Samo preautorizovane uplate se mogu rezervisati"
+<<<<<<< HEAD
   },
   "src_dot_utils_dot_errors_dot_channelAlreadyExist": {
     "string": "This channel has already been created"
@@ -6288,6 +7196,8 @@
   },
   "src_dot_utils_dot_errors_dot_duplicated": {
     "string": "The same object cannot be in both lists"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_utils_dot_errors_dot_duplicatedInputItem": {
     "string": "Ne može se dodati i ukloniti grupa istovremeno"
@@ -6318,10 +7228,13 @@
   "src_dot_utils_dot_errors_dot_invalidUrlFormat": {
     "string": "Url has invalid format"
   },
+<<<<<<< HEAD
   "src_dot_utils_dot_errors_dot_lessThanMin": {
     "context": "error message",
     "string": "Max value cannot be less than min value"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_utils_dot_errors_dot_misconfigured": {
     "string": "Plugin is misconfigured and cannot be activated"
   },
@@ -6338,7 +7251,11 @@
   },
   "src_dot_utils_dot_errors_dot_notFound": {
     "context": "error message",
+<<<<<<< HEAD
     "string": "Page not found."
+=======
+    "string": "Invoice not found"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_utils_dot_errors_dot_notReady": {
     "context": "error message",
@@ -6369,9 +7286,12 @@
   },
   "src_dot_utils_dot_errors_dot_permissionOutOfScope": {
     "string": "Ove dozvole su izvan Vašeg opsega"
+<<<<<<< HEAD
   },
   "src_dot_utils_dot_errors_dot_priceInvalid": {
     "string": "Product price cannot be lower than 0."
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_utils_dot_errors_dot_shippingNotApplicable": {
     "context": "error message",
@@ -6505,10 +7425,13 @@
     "context": "event",
     "string": "Checkout updated"
   },
+<<<<<<< HEAD
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1366770851": {
     "context": "event",
     "string": "Order confirmed"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1368317066": {
     "context": "event",
     "string": "Invoice deleted"
@@ -6653,6 +7576,7 @@
   },
   "src_dot_yes": {
     "string": "Da"
+<<<<<<< HEAD
   },
   "tableColAllocated": {
     "context": "table column header, allocated product quantity",
@@ -6661,6 +7585,8 @@
   "tableColQuantity": {
     "context": "table column header",
     "string": "Količina"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "voucherDetailsUnassignCategory": {
     "context": "unassign category from voucher, button",

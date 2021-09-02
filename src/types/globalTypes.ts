@@ -938,6 +938,7 @@ export enum LanguageCodeEnum {
   IT_SM = "IT_SM",
   IT_VA = "IT_VA",
   JA = "JA",
+<<<<<<< HEAD
   JA_JP = "JA_JP",
   JGO = "JGO",
   JGO_CM = "JGO_CM",
@@ -967,6 +968,9 @@ export enum LanguageCodeEnum {
   KLN = "KLN",
   KLN_KE = "KLN_KE",
   KL_GL = "KL_GL",
+=======
+  KA = "KA",
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   KM = "KM",
   KM_KH = "KM_KH",
   KN = "KN",

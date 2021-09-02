@@ -1200,7 +1200,13 @@ type Collection implements Node & ObjectWithMetadata {
   seoTitle: String
   seoDescription: String
   name: String!
+<<<<<<< HEAD
   description: JSONString
+=======
+  description: String!
+  descriptionJson: JSONString!
+  publicationDate: Date
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   slug: String!
   privateMetadata: [MetadataItem]!
   metadata: [MetadataItem]!
@@ -1208,7 +1214,11 @@ type Collection implements Node & ObjectWithMetadata {
   products(filter: ProductFilterInput, sortBy: ProductOrder, before: String, after: String, first: Int, last: Int): ProductCountableConnection
   backgroundImage(size: Int): Image
   translation(languageCode: LanguageCodeEnum!): CollectionTranslation
+<<<<<<< HEAD
   channelListings: [CollectionChannelListing!]
+=======
+  isPublished: Boolean!
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 }
 
 type CollectionAddProducts {
@@ -1404,7 +1414,10 @@ enum ConfigurationTypeFieldEnum {
   SECRET
   PASSWORD
   SECRETMULTILINE
+<<<<<<< HEAD
   OUTPUT
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 }
 
 type ConfirmAccount {
@@ -2915,6 +2928,7 @@ enum LanguageCodeEnum {
   IT_SM
   IT_VA
   JA
+<<<<<<< HEAD
   JA_JP
   JGO
   JGO_CM
@@ -2944,6 +2958,9 @@ enum LanguageCodeEnum {
   KL_GL
   KLN
   KLN_KE
+=======
+  KA
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   KM
   KM_KH
   KN
@@ -3689,8 +3706,13 @@ type Mutation {
   paymentCapture(amount: PositiveDecimal, paymentId: ID!): PaymentCapture
   paymentRefund(amount: PositiveDecimal, paymentId: ID!): PaymentRefund
   paymentVoid(paymentId: ID!): PaymentVoid
+<<<<<<< HEAD
   paymentInitialize(channel: String, gateway: String!, paymentData: JSONString): PaymentInitialize
   pageCreate(input: PageCreateInput!): PageCreate
+=======
+  paymentInitialize(gateway: String!, paymentData: JSONString): PaymentInitialize
+  pageCreate(input: PageInput!): PageCreate
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   pageDelete(id: ID!): PageDelete
   pageBulkDelete(ids: [ID]!): PageBulkDelete
   pageBulkPublish(ids: [ID]!, isPublished: Boolean!): PageBulkPublish
@@ -4254,8 +4276,11 @@ type OrderLine implements Node {
   translatedProductName: String!
   translatedVariantName: String!
   allocations: [Allocation!]
+<<<<<<< HEAD
   quantityToFulfill: Int!
   unitDiscountType: DiscountValueTypeEnum
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 }
 
 input OrderLineCreateInput {
@@ -4450,7 +4475,6 @@ type Page implements Node & ObjectWithMetadata {
   title: String!
   content: JSONString
   publicationDate: Date
-  isPublished: Boolean!
   slug: String!
   pageType: PageType!
   created: DateTime!
@@ -4458,6 +4482,7 @@ type Page implements Node & ObjectWithMetadata {
   metadata: [MetadataItem]!
   contentJson: JSONString! @deprecated(reason: "Will be removed in Saleor 4.0. Use the `content` field instead.")
   translation(languageCode: LanguageCodeEnum!): PageTranslation
+<<<<<<< HEAD
   attributes: [SelectedAttribute!]!
 }
 
@@ -4471,6 +4496,9 @@ type PageAttributeUnassign {
   pageType: PageType
   pageErrors: [PageError!]! @deprecated(reason: "Use errors field instead. This field will be removed in Saleor 4.0.")
   errors: [PageError!]!
+=======
+  isPublished: Boolean!
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 }
 
 type PageBulkDelete {
@@ -4789,9 +4817,15 @@ type PaymentGateway {
 }
 
 type PaymentInitialize {
+<<<<<<< HEAD
   initializedPayment: PaymentInitialized
   paymentErrors: [PaymentError!]! @deprecated(reason: "Use errors field instead. This field will be removed in Saleor 4.0.")
   errors: [PaymentError!]!
+=======
+  errors: [Error!]! @deprecated(reason: "Use typed errors with error codes. This field will be removed after 2020-07-31.")
+  initializedPayment: PaymentInitialized
+  paymentErrors: [PaymentError!]!
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
 }
 
 type PaymentInitialized {
@@ -5014,7 +5048,13 @@ type Product implements Node & ObjectWithMetadata {
   seoTitle: String
   seoDescription: String
   name: String!
+<<<<<<< HEAD
   description: JSONString
+=======
+  description: String!
+  descriptionJson: JSONString!
+  publicationDate: Date
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   productType: ProductType!
   slug: String!
   category: Category
@@ -5041,6 +5081,7 @@ type Product implements Node & ObjectWithMetadata {
   translation(languageCode: LanguageCodeEnum!): ProductTranslation
   availableForPurchase: Date
   isAvailableForPurchase: Boolean
+  isPublished: Boolean!
 }
 
 type ProductAttributeAssign {
@@ -6164,6 +6205,11 @@ type Shop {
   availableShippingMethods(channel: String!, address: AddressInput): [ShippingMethod]
   channelCurrencies: [String!]!
   countries(languageCode: LanguageCodeEnum): [CountryDisplay!]!
+<<<<<<< HEAD
+=======
+  currencies: [String]! @deprecated(reason: "This field will be removed in Saleor 3.0")
+  defaultCurrency: String! @deprecated(reason: "This field will be removed in Saleor 3.0")
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   defaultCountry: CountryDisplay
   defaultMailSenderName: String
   defaultMailSenderAddress: String

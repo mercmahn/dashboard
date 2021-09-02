@@ -211,12 +211,18 @@
     "context": "vat not included in order price",
     "string": "does not apply"
   },
+<<<<<<< HEAD
   "pageTypeCreateHeader": {
     "context": "window title",
     "string": "Create Page Type"
   },
   "pageTypeInputLabel": {
     "string": "Select content type"
+=======
+  "productExportFieldAvailability": {
+    "context": "product field",
+    "string": "Available for purchase"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productExportFieldCategory": {
     "context": "product field",
@@ -234,6 +240,13 @@
     "context": "product field",
     "string": "İsim"
   },
+<<<<<<< HEAD
+=======
+  "productExportFieldPrice": {
+    "context": "product field",
+    "string": "Cost Price"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productExportFieldProductImages": {
     "context": "product field",
     "string": "Product Images"
@@ -254,6 +267,13 @@
     "context": "product field",
     "string": "Variant Images"
   },
+<<<<<<< HEAD
+=======
+  "productExportFieldVariantPrice": {
+    "context": "product field",
+    "string": "Variant Price"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productExportFieldVariantSku": {
     "context": "product field",
     "string": "Export Variant SKU"
@@ -265,6 +285,13 @@
   "productExportFieldVisibility": {
     "context": "product field",
     "string": "Görünüm"
+<<<<<<< HEAD
+=======
+  },
+  "productStatusLabel": {
+    "context": "product",
+    "string": "Yayınlanan"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "productStockHeader": {
     "context": "product stock, section header",
@@ -308,6 +335,13 @@
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
   },
+<<<<<<< HEAD
+=======
+  "productVariantWarehouseSectionDescription": {
+    "context": "no warehouses info",
+    "string": "There are no warehouses set up for your store. To add stock quantity to the variant please <a>configure a warehouse</a>"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "productWarehouseSectionDescription": {
     "context": "no warehouses info",
     "string": "There are no warehouses set up for your store. To add stock quantity to the product please <a>configure a warehouse</a>"
@@ -1078,6 +1112,13 @@
   "src_dot_categories_dot_components_dot_CategoryProductList_dot_1952810469": {
     "context": "product type",
     "string": "Tip"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_categories_dot_components_dot_CategoryProductList_dot_2341910657": {
+    "context": "product",
+    "string": "Yayınlanmayan"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_categories_dot_components_dot_CategoryProductList_dot_3326160357": {
     "context": "availability status",
@@ -1160,6 +1201,7 @@
   "src_dot_categories_dot_views_dot_CategoryList_dot_712767046": {
     "context": "dialog title",
     "string": "Kategorileri sil"
+<<<<<<< HEAD
   },
   "src_dot_channels": {
     "context": "channels section name",
@@ -1282,6 +1324,8 @@
   "src_dot_chooseFile": {
     "context": "button",
     "string": "Choose file"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_clear": {
     "context": "button",
@@ -1291,6 +1335,13 @@
     "context": "collections section name",
     "string": "Koleksiyonlar"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_2001551496": {
+    "context": "collection",
+    "string": "{date} tarihinden sonra görünür olacak"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_643174786": {
     "context": "collection label",
     "string": "Visible"
@@ -1305,6 +1356,20 @@
   "src_dot_collections_dot_components_dot_CollectionCreatePage_dot_951411809": {
     "context": "page header",
     "string": "Add Collection"
+  },
+<<<<<<< HEAD
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
+    "context": "collection label",
+    "string": "Visible"
+=======
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_2001551496": {
+    "context": "collection",
+    "string": "{date} tarihinden sonra görünür olacak"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
+  },
+  "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_77815154": {
+    "context": "collection label",
+    "string": "Gizlenmiş"
   },
   "src_dot_collections_dot_components_dot_CollectionDetailsPage_dot_643174786": {
     "context": "collection label",
@@ -1367,6 +1432,13 @@
   "src_dot_collections_dot_components_dot_CollectionProducts_dot_1952810469": {
     "context": "product type",
     "string": "Tip"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_collections_dot_components_dot_CollectionProducts_dot_2341910657": {
+    "context": "product is not published",
+    "string": "Yayınlanmayan"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_components_dot_CollectionProducts_dot_3326160357": {
     "context": "product availability",
@@ -1424,6 +1496,20 @@
   "src_dot_collections_dot_views_dot_942133001": {
     "context": "dialog title",
     "string": "Görseli sil"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_1547167026": {
+    "context": "publish collections",
+    "string": "Yayınla"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_1944626595": {
+    "string": "{counter,plural,one {Are you sure you want to unpublish this collection?} other {Are you sure you want to unpublish {displayQuantity} collections?}}"
+  },
+  "src_dot_collections_dot_views_dot_CollectionList_dot_2237014112": {
+    "context": "unpublish collections",
+    "string": "Yayından kaldır"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_collections_dot_views_dot_CollectionList_dot_2491832187": {
     "string": "{counter,plural,one {Are you sure you want to delete this collection?} other {Are you sure you want to delete {displayQuantity} collections?}}"
@@ -1484,6 +1570,7 @@
   },
   "src_dot_components_dot_AssignAttributeDialog_dot_2173976534": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Assign attributes"
   },
   "src_dot_components_dot_AssignAttributeDialog_dot_3922579741": {
@@ -1499,6 +1586,17 @@
   "src_dot_components_dot_AssignAttributeDialog_dot_902296540": {
     "string": "Search Attributes"
   },
+=======
+    "string": "Hesap ayarları"
+  },
+  "src_dot_components_dot_AppStatus_dot_1624959454": {
+    "string": "If you want to disable this App please uncheck the box below."
+  },
+  "src_dot_components_dot_AppStatus_dot_1750277107": {
+    "context": "section header",
+    "string": "App Status"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AssignCategoryDialog_dot_3125506097": {
     "context": "dialog header",
     "string": "Assign Category"
@@ -1563,6 +1661,7 @@
     "context": "product availability",
     "string": "Available for purchase"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_2162667201": {
     "context": "channel publication date",
     "string": "Visible since {date}"
@@ -1571,18 +1670,24 @@
     "context": "product publication date label",
     "string": "will become published on {date}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_2938074852": {
     "context": "product available for purchase date",
     "string": "will become available on {date}"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_3285520461": {
     "context": "channel publication date",
     "string": "Will become available on {date}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_components_dot_AvailabilityCard_dot_570524410": {
     "context": "product availability date label",
     "string": "Set availability date"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_AvailabilityCard_dot_643174786": {
     "context": "channel publication status",
     "string": "Visible"
@@ -1666,6 +1771,11 @@
   "src_dot_components_dot_ChannelsAvailability_dot_4037103586": {
     "context": "section header button",
     "string": "Manage"
+=======
+  "src_dot_components_dot_AvailabilityCard_dot_825317195": {
+    "context": "product unavailability",
+    "string": "Unavailable for purchase"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_ColumnPicker_dot_1483881697": {
     "context": "button",
@@ -1992,8 +2102,29 @@
     "context": "button",
     "string": "Go back to dashboard"
   },
+<<<<<<< HEAD
   "src_dot_components_dot_PriceField_dot_4072537038": {
     "string": "Price cannot be lower than 0"
+=======
+  "src_dot_components_dot_RadioGroupField_dot_4205644805": {
+    "string": "Sonuç bulunamadı"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_1603794322": {
+    "context": "dialog header",
+    "string": "Add Image Link"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_2049070632": {
+    "context": "replace image, button",
+    "string": "Replace"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_2160163587": {
+    "context": "button",
+    "string": "Add or Edit Link"
+  },
+  "src_dot_components_dot_RichTextEditor_dot_286109898": {
+    "context": "rich text error",
+    "string": "Invalid content"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_components_dot_RadioGroupField_dot_4205644805": {
     "string": "Sonuç bulunamadı"
@@ -2077,6 +2208,9 @@
   "src_dot_components_dot_UserChip_dot_85001470": {
     "context": "button",
     "string": "Enable Dark Mode"
+  },
+  "src_dot_components_dot_VisibilityCard_dot_1311467573": {
+    "string": "Show in product listings"
   },
   "src_dot_components_dot_VisibilityCard_dot_1311467573": {
     "string": "Show in product listings"
@@ -3135,12 +3269,21 @@
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_1895667608": {
     "string": "Ürün"
   },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_270371448": {
+    "string": "Product is out of stock"
+  },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2796503714": {
     "context": "quantity of ordered products",
     "string": "Adet"
   },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_2963336581": {
+    "string": "Product is unavailable to purchase"
+  },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_546865199": {
     "string": "No Products added to Order"
+  },
+  "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_59548500": {
+    "string": "Product is hidden"
   },
   "src_dot_orders_dot_components_dot_OrderDraftDetailsProducts_dot_878013594": {
     "context": "total price of ordered products",
@@ -3308,10 +3451,13 @@
     "context": "fulfillment group tracking number",
     "string": "Takip düzenle"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2567258278": {
     "context": "refunded fulfillment, section header",
     "string": "Refunded ({quantity})"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderFulfillment_dot_2796503714": {
     "context": "ordered product quantity",
     "string": "Adet"
@@ -3426,6 +3572,13 @@
     "string": "Draft order was created"
   },
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3237374063": {
+<<<<<<< HEAD
+=======
+    "context": "order history message",
+    "string": "Payment was authorized"
+  },
+  "src_dot_orders_dot_components_dot_OrderHistory_dot_3328124376": {
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
     "context": "order history message",
     "string": "Payment was authorized"
   },
@@ -3441,10 +3594,13 @@
     "context": "order history message",
     "string": "Products were added to draft order"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_3731274949": {
     "context": "order history message",
     "string": "Order was refunded by {refundedBy}"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_393045022": {
     "context": "order history message",
     "string": "Invoice no. {invoiceNumber} was updated"
@@ -3472,9 +3628,12 @@
     "context": "order history message",
     "string": "Payment failed"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderHistory_dot_492197448": {
     "string": "Products refunded"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderHistory_dot_493321552": {
     "context": "order history message",
     "string": "Order cancel information was sent to customer"
@@ -3521,10 +3680,13 @@
     "context": "generate invoice button",
     "string": "Generate"
   },
+<<<<<<< HEAD
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2225897825": {
     "context": "button",
     "string": "Order Settings"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2826235371": {
     "context": "button",
     "string": "Sipariş oluştur"
@@ -4137,6 +4299,7 @@
   "src_dot_pages_dot_components_dot_PageList_dot_3767550649": {
     "context": "page status",
     "string": "Yayımlanmadı"
+<<<<<<< HEAD
   },
   "src_dot_pages_dot_components_dot_PageOrganizeContent_dot_2959504520": {
     "string": "Content type"
@@ -4144,6 +4307,8 @@
   "src_dot_pages_dot_components_dot_PageOrganizeContent_dot_590187004": {
     "context": "section header",
     "string": "Organize Content"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_pages_dot_views_dot_1068617485": {
     "context": "header",
@@ -4449,6 +4614,33 @@
     "context": "product types section name",
     "string": "Product Types"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_2173976534": {
+    "context": "button",
+    "string": "Assign attributes"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_3922579741": {
+    "context": "dialog header",
+    "string": "Assign Attribute"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_4205644805": {
+    "string": "Sonuç bulunamadı"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_524117994": {
+    "string": "Search by attribute name"
+  },
+  "src_dot_productTypes_dot_components_dot_AssignAttributeDialog_dot_902296540": {
+    "string": "Search Attributes"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_404238501": {
+    "context": "dialog header",
+    "string": "Unassign Attribute From Product Type"
+  },
+  "src_dot_productTypes_dot_components_dot_ProductTypeAttributeUnassignDialog_dot_722498450": {
+    "string": "Are you sure you want to unassign {attributeName} from {productTypeName}?"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_productTypes_dot_components_dot_ProductTypeAttributes_dot_1192828581": {
     "string": "No attributes found"
   },
@@ -4598,6 +4790,13 @@
     "context": "product organization, header",
     "string": "Organization"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductCreatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductCreatePage_dot_2341910657": {
     "context": "product label",
     "string": "Yayınlanmayan"
@@ -4609,10 +4808,13 @@
     "context": "product label",
     "string": "Yayınlanan"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_3416636340": {
     "context": "product rating",
     "string": "Product Rating"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductDetailsForm_dot_636461959": {
     "context": "product name",
     "string": "İsim"
@@ -4629,9 +4831,12 @@
     "context": "there are more elements of list that are hidden",
     "string": "and {number} more"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1583816707": {
     "string": "Add all channels"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductExportDialog_dot_1890035856": {
     "context": "informations about product organization, header",
     "string": "Product Organization"
@@ -4807,9 +5012,19 @@
     "context": "product type",
     "string": "Configurable"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductList_dot_3326160357": {
     "context": "product channels",
     "string": "Uygunluk"
+=======
+  "src_dot_products_dot_components_dot_ProductList_dot_2754779425": {
+    "context": "product type",
+    "string": "Configurable"
+  },
+  "src_dot_products_dot_components_dot_ProductList_dot_3640454975": {
+    "context": "product status",
+    "string": "Yayınlanan"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductList_dot_636461959": {
     "context": "product",
@@ -4844,6 +5059,13 @@
     "context": "product shipping",
     "string": "Kargo"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductShipping_dot_1325966144": {
+    "context": "product shipping",
+    "string": "Kargo"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductShipping_dot_746695941": {
     "context": "product weight",
     "string": "Ağırlık"
@@ -4882,6 +5104,13 @@
     "context": "checkbox",
     "string": "Override the product type's tax rate"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2232321263": {
+    "context": "product publication date label",
+    "string": "will become published on {date}"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_components_dot_ProductUpdatePage_dot_2341910657": {
     "context": "product label",
     "string": "Yayınlanmayan"
@@ -4892,10 +5121,13 @@
   "src_dot_products_dot_components_dot_ProductUpdatePage_dot_3640454975": {
     "context": "product label",
     "string": "Yayınlanan"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_attributesHeader": {
     "context": "attributes, section header",
     "string": "Variant Attributes"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_attributesSelectionHeader": {
     "context": "attributes, section header",
@@ -4907,7 +5139,11 @@
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatePage_dot_saveVariant": {
     "context": "button",
+<<<<<<< HEAD
     "string": "Save variant"
+=======
+    "string": "Varyantı Sil"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantCreatorPage_dot_1134347598": {
     "context": "variant price, header",
@@ -5048,6 +5284,7 @@
   "src_dot_products_dot_components_dot_ProductVariantNavigation_dot_3185562157": {
     "context": "variant name",
     "string": "Yeni Varyant"
+<<<<<<< HEAD
   },
   "src_dot_products_dot_components_dot_ProductVariantPage_dot_nonSelectionAttributes": {
     "context": "attributes, section header",
@@ -5056,6 +5293,8 @@
   "src_dot_products_dot_components_dot_ProductVariantPage_dot_selectionAttributesHeader": {
     "context": "attributes, section header",
     "string": "Variant Selection Attributes"
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1099355007": {
     "context": "product pricing, section header",
@@ -5064,6 +5303,7 @@
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1134347598": {
     "string": "Ücret"
   },
+<<<<<<< HEAD
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_1387754199": {
     "context": "tabel column header",
     "string": "Selling Price"
@@ -5082,6 +5322,10 @@
   },
   "src_dot_products_dot_components_dot_ProductVariantPrice_dot_4097816011": {
     "string": "No channels found"
+=======
+  "src_dot_products_dot_components_dot_ProductVariantPrice_dot_819659341": {
+    "string": "Maliyet ücreti"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_components_dot_ProductVariantSetDefault_dot_3683859003": {
     "context": "set variant as default, button",
@@ -5149,6 +5393,17 @@
     "context": "product variant name",
     "string": "Varyant"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_products_dot_views_dot_1542417144": {
+    "context": "window title",
+    "string": "Ürün Oluştur"
+  },
+  "src_dot_products_dot_views_dot_1591632382": {
+    "context": "page header",
+    "string": "Yeni Ürün"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_products_dot_views_dot_1731766393": {
     "context": "dialog header",
     "string": "Görseli Sil"
@@ -5162,10 +5417,31 @@
   },
   "src_dot_products_dot_views_dot_2880386427": {
     "string": "Bu görseli silmek istediğinize emin misiniz?"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_views_dot_2899821092": {
+    "string": "Ürün oluşturuldu"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_3989383405": {
     "context": "window title",
     "string": "Varyant oluştur"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1204353135": {
+    "context": "dialog content",
+    "string": "{counter,plural,one {Are you sure you want to delete this product?} other {Are you sure you want to delete {displayQuantity} products?}}"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1505423810": {
+    "context": "waiting for export to end, header",
+    "string": "Exporting CSV"
+  },
+  "src_dot_products_dot_views_dot_ProductList_dot_1547167026": {
+    "context": "publish product, button",
+    "string": "Yayınla"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_ProductCreate_dot_1542417144": {
     "context": "window title",
@@ -5213,6 +5489,13 @@
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_4108890645": {
     "string": "Ürün kaldırıldı"
+<<<<<<< HEAD
+=======
+  },
+  "src_dot_products_dot_views_dot_ProductUpdate_dot_671489548": {
+    "context": "snackbar text",
+    "string": "Product availability updated"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_products_dot_views_dot_ProductUpdate_dot_879305849": {
     "context": "dialog header",
@@ -5265,6 +5548,7 @@
   "src_dot_selectAll": {
     "context": "select all options, button",
     "string": "Select All"
+<<<<<<< HEAD
   },
   "src_dot_send": {
     "context": "button",
@@ -5382,6 +5666,19 @@
   },
   "src_dot_shipping_dot_components_dot_ShippingRateZipCodeRangeRemoveDialog_dot_1083561409": {
     "string": "Are you sure you want to remove this ZIP-code rule?"
+=======
+  },
+  "src_dot_send": {
+    "context": "button",
+    "string": "Send"
+  },
+  "src_dot_serviceAccounts": {
+    "context": "service accounts section name",
+    "string": "Service Accounts"
+  },
+  "src_dot_sessionExpired": {
+    "string": "Your session has expired. Please log in again to continue."
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_shipping_dot_components_dot_ShippingRateZipCodeRangeRemoveDialog_dot_2944856644": {
     "context": "header",
@@ -5686,6 +5983,48 @@
   "src_dot_siteSettings_dot_components_dot_SiteSettingsDetails_dot_529433178": {
     "string": "Store description is shown on taskbar after your store name"
   },
+<<<<<<< HEAD
+=======
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_1238948746": {
+    "context": "dialog header",
+    "string": "Add New Authorization Key"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_2237029987": {
+    "string": "Parola"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_2446088470": {
+    "context": "authentication provider API key",
+    "string": "Anahtar"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_3039841202": {
+    "context": "authentication provider name",
+    "string": "Authentication type"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeyDialog_dot_50561933": {
+    "context": "button",
+    "string": "Add authentication"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_1114030884": {
+    "context": "button",
+    "string": "Add key"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_1270286507": {
+    "context": "authentication provider name",
+    "string": "Authentication Type"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_226491688": {
+    "context": "section header",
+    "string": "Authentication Keys"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_2446088470": {
+    "context": "authentication provider API key",
+    "string": "Anahtar"
+  },
+  "src_dot_siteSettings_dot_components_dot_SiteSettingsKeys_dot_3981699144": {
+    "context": "no authentication provider API keys",
+    "string": "No keys"
+  },
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_siteSettings_dot_components_dot_SiteSettingsMailing_dot_1124962330": {
     "string": "Mailing email address"
   },
@@ -6318,10 +6657,13 @@
   "src_dot_utils_dot_errors_dot_invalidUrlFormat": {
     "string": "Url has invalid format"
   },
+<<<<<<< HEAD
   "src_dot_utils_dot_errors_dot_lessThanMin": {
     "context": "error message",
     "string": "Max value cannot be less than min value"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_utils_dot_errors_dot_misconfigured": {
     "string": "Plugin is misconfigured and cannot be activated"
   },
@@ -6338,7 +6680,11 @@
   },
   "src_dot_utils_dot_errors_dot_notFound": {
     "context": "error message",
+<<<<<<< HEAD
     "string": "Page not found."
+=======
+    "string": "Invoice not found"
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   },
   "src_dot_utils_dot_errors_dot_notReady": {
     "context": "error message",
@@ -6505,10 +6851,13 @@
     "context": "event",
     "string": "Checkout updated"
   },
+<<<<<<< HEAD
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1366770851": {
     "context": "event",
     "string": "Order confirmed"
   },
+=======
+>>>>>>> 04354fa3e03210c261c686fd68fce1fcdc62ed9e
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_1368317066": {
     "context": "event",
     "string": "Invoice deleted"
